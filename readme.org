@@ -28,47 +28,47 @@
   frequency in each terrain:
 
   #+BEGIN_EXAMPLE
-  grep -rHi "^troll$" *
+  grep -rHi "^troll$" */*
   #+END_EXAMPLE
 
   Which returns a list like this:
 
   #+BEGIN_EXAMPLE
-  cold_civilized_desert/rare:Troll
-  cold_civilized_forest/uncommon:Troll
-  cold_civilized_hills/rare:Troll
-  cold_civilized_mountains/rare:Troll
-  cold_civilized_plains/rare:Troll
-  cold_civilized_swamp/uncommon:Troll
-  cold_wilderness_desert/rare:Troll
-  cold_wilderness_forest/uncommon:Troll
-  cold_wilderness_hills/rare:Troll
-  cold_wilderness_mountains/rare:Troll
-  cold_wilderness_plains/rare:Troll
-  cold_wilderness_swamps/uncommon:Troll
-  temperate_civilized_desert/rare:Troll
-  temperate_civilized_forest/uncommon:Troll
-  temperate_civilized_hills/rare:Troll
-  temperate_civilized_mountains/rare:Troll
-  temperate_civilized_plains/rare:Troll
-  temperate_civilized_swamp/uncommon:Troll
-  temperate_wilderness_desert/rare:Troll
-  temperate_wilderness_forest/uncommon:Troll
-  temperate_wilderness_hills/rare:Troll
-  temperate_wilderness_plains/rare:Troll
-  temperate_wildernes_swamp/uncommon:Troll
-  tropical_civilized_desert/rare:Troll
-  tropical_civilized_forest/uncommon:Troll
-  tropical_civilized_hills/rare:Troll
-  tropical_civilized_mountains/rare:Troll
-  tropical_civilized_plains/rare:Troll
-  tropical_civilized_swamp/uncommon:Troll
-  tropical_wilderness_desert/rare:Troll
-  tropical_wilderness_forest/uncommon:Troll
-  tropical_wilderness_hills/rare:Troll
-  tropical_wilderness_mountains/rare:Troll
-  tropical_wilderness_plains/rare:Troll
-  tropical_wilderness_swamp/uncommon:Troll
+land/cold_civilized_desert/rare:Troll
+land/cold_civilized_forest/uncommon:Troll
+land/cold_civilized_hills/rare:Troll
+land/cold_civilized_mountains/rare:Troll
+land/cold_civilized_plains/rare:Troll
+land/cold_civilized_swamp/uncommon:Troll
+land/cold_wilderness_desert/rare:Troll
+land/cold_wilderness_forest/uncommon:Troll
+land/cold_wilderness_hills/rare:Troll
+land/cold_wilderness_mountains/rare:Troll
+land/cold_wilderness_plains/rare:Troll
+land/cold_wilderness_swamps/uncommon:Troll
+land/temperate_civilized_desert/rare:Troll
+land/temperate_civilized_forest/uncommon:Troll
+land/temperate_civilized_hills/rare:Troll
+land/temperate_civilized_mountains/rare:Troll
+land/temperate_civilized_plains/rare:Troll
+land/temperate_civilized_swamp/uncommon:Troll
+land/temperate_wilderness_desert/rare:Troll
+land/temperate_wilderness_forest/uncommon:Troll
+land/temperate_wilderness_hills/rare:Troll
+land/temperate_wilderness_plains/rare:Troll
+land/temperate_wildernes_swamp/uncommon:Troll
+land/tropical_civilized_desert/rare:Troll
+land/tropical_civilized_forest/uncommon:Troll
+land/tropical_civilized_hills/rare:Troll
+land/tropical_civilized_mountains/rare:Troll
+land/tropical_civilized_plains/rare:Troll
+land/tropical_civilized_swamp/uncommon:Troll
+land/tropical_wilderness_desert/rare:Troll
+land/tropical_wilderness_forest/uncommon:Troll
+land/tropical_wilderness_hills/rare:Troll
+land/tropical_wilderness_mountains/rare:Troll
+land/tropical_wilderness_plains/rare:Troll
+land/tropical_wilderness_swamp/uncommon:Troll
   #+END_EXAMPLE
 
 ** Pick a random monster of a certain frequency
