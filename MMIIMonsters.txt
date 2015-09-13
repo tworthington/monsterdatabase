@@ -1,0 +1,6225 @@
+COLD, CIVILIZED MOUNTAINS
+Common
+Bandit
+Bat
+Dwarf, Mountain
+Falcon, Small
+Mammoth
+Ogre
+Raven, Normal
+Uncommon
+Bugbear
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Snake, Poisonous
+Squirrel, Normal
+Wolf
+Rare
+Berserker
+Dragon, Earth
+Dwarf, Hill
+Ghast
+Horse
+Jermaline
+Killmoulis
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Mule
+Norker
+Ogrillon
+Quaggoth
+Rat
+Rat, Giant
+Shadow
+Shadow Mastiff
+Shedu
+Toad, Ice
+Troll
+Vapor Rat
+
+Very Rare
+Aarakocra
+Barghest
+Brain Mole
+Castle
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Denzelian
+Deva, Movanic
+Dragon, Gold
+Ghost
+Gnome
+Grue, Harginn
+Grue, Ildriss
+Haunt
+Hollyphant
+Ki-rin
+Luck Eater
+Lycanthrope, Wererat
+Nilbog
+Obliviax
+Oliphant
+Otyugh
+Penanggalan
+Poltergeist
+Rothe
+Shade
+Shadow Demon
+Shedu, Greater
+Snyad
+Vagabond
+Vampire
+Wolf, Dire
+Xaren
+Xorn
+Zombie
+Zombie, Juju
+
+COLD, CIVILIZED HILLS
+Common
+Bandit
+Dwarf, Hill
+Herd Animal
+Merchant
+Mule
+Ogre
+Patrol
+Raven, Normal
+Squirrel, Normal
+Wolf
+Uncommon
+Bat
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Small
+Ghoul
+Hobgoblin
+Horse
+Killmoulis
+Mammoth
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Rat
+Rat, Giant
+Snake, Poisonous
+
+Rare
+Berserker
+Boar, Wild
+Camel, Bactrian
+Castle
+Dwarf, Mountain
+Falcon, Large
+Ghast
+Gnome
+Goblin
+Halfling
+Jermlaine
+Lycanthrope, Werebear
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Shadow Mastiff
+Shedu
+Troll
+Vapor Rat
+Wolf, Dire
+
+
+Very Rare
+Aarakocra
+Barghest
+Brain Mole
+Bugbear
+Centipede, Giant
+Coffer Corpse
+Deva, Movanic
+Dragon, Earth
+Dragon, Gold
+Elf, Wood
+Ghost
+Griffon
+Groaning Spirit
+Grue, Chaggrin
+Hollyphant
+Ki-rin
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Obliviax
+Penanggalan
+Quaggoth
+Revenant
+Shedu, Greater
+Snyad
+Toad, Ice
+Vampire
+Xaren
+Xorn
+Zombie
+COLD, CIVILIZED FOREST
+Common
+Bandit
+Boar, Wild
+Centipede, Giant
+Centipede, Huge
+Falcon, Small
+Herd Animal
+Lycanthrope, Werewolf
+Mammoth
+Ogre
+Patrol
+Rat
+Raven, Normal
+Squirrel, Normal
+Wolf
+Uncommon
+Bat
+Bugbear
+Character Party
+Dog, War
+Elf, Wood
+Falcon, Large
+Horse
+Jermlaine
+Killmoulis
+Merchant
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat, Giant
+Snake, Poisonous
+Stirge
+Troll
+Rare
+Berserker
+Camel, Bactrian
+Castle
+Dwarf, Hill
+Dwarf, Mountain
+Goblin
+Halfling
+Hobgoblin
+Luck Eater
+Lycanthrope, Werebear
+Lycanthrope, Wereboar
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Penanggalan
+Pseudo-undead, Ghoul
+Shadow
+Toad, Ice
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bookworm
+Brain Mole
+Demon, Bar-Lgura
+Deva, Movanic
+Dragon, Gold
+Ear Seeker
+Ghost
+Gnome
+Groaning Spirit
+Lycanthrope, Wererat
+Norker
+Poltergeist
+Ouaggoth
+Revenant
+Shadow Demon
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Vampire
+Zombie
+
+COLD, CIVILIZED SWAMP
+Common
+Bandit
+Centipede, Giant
+Centipede, Huge
+Mule
+Ogre
+Rat
+Rat, Giant
+Raven, Normal
+Uncommon
+Buccaneer (Pirate)
+Character Party
+Dog, War
+Falcon Small
+Ghoul
+Herd Animal
+Hobgoblin
+Jermlaine
+Lycanthrope, Wererat
+Mammoth
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Snake, Poisonous
+Squirrel, Normal
+Troll
+Wolf
+Rare
+Bat
+Berserker
+Boar, Wild
+Camel, Bactrian
+Crab, Giant
+Falcon, Large
+Ghast
+Goblin
+Horse
+Killmoulis
+Luck Eater
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Norker
+Obliviax
+Owl
+Penanggalan
+Ouaggoth
+Shadow
+Shadow Mastiff
+Skeleton
+Toad, Ice
+Vapor Rat
+Zombie
+
+Very Rare
+Barghest
+Bookworm
+Bugbear
+Castle
+Coffer Corpse
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Dragon, Gold
+Elf, Wood
+Ghost
+Grue, Varrdig
+Haunt
+Hollyphant
+Lycanthrope, Wereboar
+Oliphant
+Poltergeist
+Revenant
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Vampire
+Wolf, Dire
+Zombie, Juju
+Zombie, Monster
+
+COLD, CIVILIZED PLAINS
+Common
+Bandit
+Boar, Wild
+Camel, Bactrian
+Centipede, Giant
+Centipede, Huge
+Falcon, Small
+Herd Animal
+Mammoth
+Merchant
+Mule
+Ogre
+Patrol
+Rat
+Rat, Giant
+Raven, Normal
+Squirrel, Normal
+Wolf
+Uncommon
+Bugbear
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Horse
+Jermlaine
+Killmoulis
+Osquip
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Shadow Mastiff
+Snake, Poisonous
+Rare
+Bat
+Berserker
+Castle
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Ghast
+Goblin
+Halfling
+Hobgoblin
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Werewolf
+Ogrillon
+Penanggalan
+Poltergeist
+Quaggoth
+Shedu
+Toad, Ice
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bookworm
+Brain Mole
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Ghost
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Hollyphant
+Lycanthrope, Wererat
+Norker
+Oliphant
+Shade
+Shedu, Greater
+Tween
+Vagabond
+Vampire
+Vortex
+Zombie
+Zombie, Juju
+
+COLD, CIVILIZED DESERT
+Common
+Bandit
+Camel, Bactrian
+Herd Animal
+Merchant
+Raven, Normal
+Uncommon
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Small
+Horse
+Ogre
+Osquip
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Shadow Mastiff
+Snake, Poisonous
+Squirrel, Normal
+Wolf
+Rare
+Berserker
+Boar, Wild
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Falcon, Large
+Goblin
+Jermlaine
+Killmoulis
+Lycanthrope, Werewolf
+Poltergeist
+Rat, Giant
+Shedu
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bat
+Bugbear
+Castle
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Griffon
+Groaning Spirit
+Grue, Harginn
+Hobgoblin
+Hollyphant
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Norker
+Oliphant
+Penanggalan
+Quaggoth
+Ram
+Shade
+Shedu, Greater
+Vampire
+Vortex
+Zombie
+
+COLD, WILDERNESS MOUNTAINS
+Common
+Bat
+Dog, Wild
+Dwarf, Mountain
+Falcon, Small
+Mammoth
+Ogre
+Orc
+Raven, Normal
+Rhinocerous, Wooly
+Uncommon
+Bandit
+Bear, Cave
+Bowler
+Bugbear
+Cat, Wild
+Dragon, White
+Falcon, Large
+Ghoul
+Giant, Fire
+Giant, Formorian
+Giant, Hill
+Giant, Stone
+Goat
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Lion, Mountain
+Manticore
+Owl
+Pilgrim
+Centipede, Huge
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Ram
+Scorpion, Huge
+Scorpion, Large
+Snake, Poisonous
+Squirrel, Normal
+Tiger
+Weasel
+Wolf
+Wolverine
+Rare
+Bat, Giant
+Bear, Black
+Bear, Brown
+Bear, Northern
+Caterwaul
+Caveman
+Character Party
+Cyclopskin
+Devil Dog
+Dragon, Earth
+Dragon, Red
+Dwarf, Hill
+Eagle
+Eagle, Giant
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Cloud
+Giant, Frost
+Giant, Storm
+Giant, Verbeeg
+Gorgon
+Hippogriff
+Horse
+Jermlaine
+Leucrotta
+Lion, Spotted
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Margoyle
+Mastodon
+Minotaur
+Mongrelman
+Moon Dog
+Mule
+Norker
+Ogrillon
+Owl, Giant
+Peryton
+Pudding, White
+Ouaggoth
+Ram, Giant
+Rat
+Rat, Giant
+Raven, Giant
+Raven, Huge
+Rock Reptile
+Scorpion, Giant
+Screaming Devilkin
+Shadow
+Shadow Mastiff
+Shedu
+Shocker
+Skulk
+Spectre
+Toad, Ice
+Troll
+Troll, Giant
+Troll, Ice
+Tunnel Worm
+Vapor Rat
+Vilstrak
+Volt
+Wight
+Wind Walker
+Wolfwere
+Wolverine, Giant
+Worg
+Xvart
+
+
+Very Rare
+Aarakocra
+Annis
+Badger
+Barghest
+Berserker
+Boggart
+Boggle
+Brain Mole
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Demon, Nabassu
+Denzelian
+Deva, Movanic
+Doppleganger
+Dragon, Gold
+Dragon, Silver
+Elf, Valley
+Ettin
+Fly, Giant Horse
+Forlarren
+Galeb Duhr
+Gargoyle
+Ghost
+Giant, Firbolg
+Giant, Mountain
+Gloomwing
+Gnome
+Grim
+Grue, Chaggrin
+Grue, Ildriss
+Haunt
+Hoar Fox
+Hydra
+Ice Lizard
+Khargra
+Ki-rin
+Kobold
+Land Urchin
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Lynx, Giant
+Magnesium Spirit
+Mantari
+Medusa
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Cave Bear
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Mammoth
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Nightmare
+Nilbog
+Obliviax
+Ogre Mage
+Oliphant
+Otyugh
+Pech
+Pegasus
+Porcupine, Giant
+Quasi-elemental, Lightning
+Quickwood
+Remorhaz
+Rothe
+Shade
+Shedu, Greater
+Skunk
+Spriggan
+Squirrel, Carniv. Flying
+Storoper
+Taer
+Tenebrous Worm
+Tirapheg
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Transposer
+Troll, Giant Two-headed
+Vagabond
+Vampire
+Vargouille
+Will-0-wisp
+Wolf, Dire
+Wolf, Winter
+Wraith
+Xaren
+Xill
+Xorn
+Yeth Hound
+Yeti
+Zombie
+Zombie, Juju
+
+COLD, WILDERNESS HILLS
+Common
+Bear, Black
+Bear, Brown
+Dog, Wild
+Dwarf, Hill
+Giant, Hill
+Herd Animal
+Lycanthrope, Werewolf
+Mule
+Ogre
+Orc
+Raven, Normal
+Rhinocerous, Wooly
+Squirrel, Normal
+Wolf
+Uncommon
+Bandit
+Bat
+Bear, Cave
+Cat, Wild
+Centipede, Huge
+Falcon, Small
+Ghoul
+Giant, Verbeeg
+Goat
+Hobgoblin
+Horse
+Kenku
+Mammoth
+Mastodon
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Rat
+Rat, Giant
+Scorpion, Large
+Skunk
+Snake, Poisonous
+Tiger
+Wolverine
+Rare
+Bat, Giant
+Bear, Northern
+Beetle, Giant Bombardier
+Boar, Wild
+Bowler
+Camel, Bactrian
+Caveman
+Character Party
+Cyclopskin
+Dragon, Red
+Dwarf, Mountain
+Falcon, Large
+Fortress
+Ghast
+Giant, Cloud
+Gnome
+Goblin
+Hoar Fox
+Jermlaine
+Lion, Mountain
+Lycanthrope, Werebear
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Patrol
+Peryton
+Porcupine, Giant
+Pudding, Deadly (White)
+Purple Worm
+Raven, Giant
+Raven, Huge
+Rock Reptile
+Scorpion, Huge
+Shadow Mastiff
+Shedu
+Skulk
+Troll
+Troll, Giant
+Troll, Ice
+Vapor Rat
+Volt
+Weasel
+Wolf, Dire
+Wolverine, Giant
+Worg
+Xvart
+Harpy
+
+Very Rare
+Aarakocra
+Badger
+Barghest
+Beaver, Giant
+Berserker
+Boar, Giant
+Boggle
+Brain Mole
+Brownie
+Bugbear
+Castle
+Centipede, Giant
+Coffer Corpse
+Cooshee
+Deva, Movanic
+Devil Dog
+Dragon, Earth
+Dragon, Gold
+Dragon, Green
+Dragon, White
+Elf, Grugach
+Elf, Wood
+Fly, Giant Bluebottle
+Forlarren
+Galeb Duhr
+Ghost
+Giant, Fire
+Giant, Fog
+Giant, Frost
+Giant, Stone
+Gorgon
+Griffon
+Grim
+Groaning Spirit
+Grue, Chaggrin
+Grue, Harginn
+Hippogriff
+Hollyphant
+Ice Lizard
+Irish Deer
+Ki-rin
+Kobold
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Lynx, Giant
+Manticore
+Margoyle
+Medusa
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Cave Bear
+Minimal, Wild Boar
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Mammoth
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Moon Dog
+Mummy
+Obliviax
+Owl, Giant
+Pegasus
+Quasi-elemental, Lightning
+Quaggoth
+Quickwood
+Ram, Giant
+Remorhaz
+Screaming Devilkin
+Shedu, Greater
+Shocker
+Spriggan
+Storoper
+Tenebrous Worm
+Toad, Ice
+Vampire
+Vargouille
+Vilstrak
+Wolf, Winter
+Wolfwere
+Xaren
+Xorn
+Yeth Hound
+Zombie
+
+COLD, WILDERNESS FOREST
+Common
+Bear, Black
+Bear, Brown
+Beetle, Giant Bombardier
+Boar, Wild
+Centipede, Giant
+Centipede, Huge
+Dog, Wild
+Falcon, Small
+Herd Animal
+Lycanthrope, Werewolf
+Mammoth
+Mastodon
+Ogre
+Orc
+Rat
+Raven, Normal
+Squirrel, Normal
+Wolf
+Uncommon
+Badger
+Bandit
+Bat
+Boar, Giant
+Bugbear
+Cat, Wild
+Dragon, White
+Elf, Wood
+Falcon, Large
+Horse
+Jermlaine
+Kobold
+Lion, Mountain
+Manticore
+Owl
+Pilgrim
+Porcupine, Giant
+Pseudo-undead, Vampire
+Rat, Giant
+Rhinocerous, Woolly
+Scorpion, Large
+Snake, Poisonous
+Stirge
+Tiger
+Troll
+Weasel
+Wolverine
+Xvart
+Rare
+Baluchitherium
+Bear, Northern
+Brownie
+Camel, Bactrian
+Caveman
+Character Party
+Cooshee
+Dragon, Green
+Dwarf, Hill
+Dwarf, Mountain
+Elf, Gray
+Fly, Giant Bluebottle
+Fortress
+Gambado
+Giant, Hill
+Goblin
+Hoar Fox
+Hobgoblin
+Irish Deer
+Kech
+Lycanthrope, Werebear
+Lycanthrope, Wereboar
+Lynx, Giant
+Medusa
+Miner
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Owl, Giant
+Patrol
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pudding, White
+Raven, Huge
+Scorpion, Giant
+Screaming Devilkin
+Shadow
+Harpy
+Skulk
+Squirrel, Carniv. Flying
+Tenebrous Worm
+Toad, Ice
+Treant
+Vapor Rat
+Volt
+Vulchling
+Wolf, Dire
+Wolfwere
+Wolverine, Giant
+Worg
+
+Very Rare
+Annis
+Aurumvorax
+Barghest
+Bat, Giant
+Bear, Cave
+Beaver, Giant
+Berserker
+Brain Mole
+Castle
+Demon, Bar-Lgura
+Deva, Movanic
+Devil Dog
+Dragon, Gold
+Dragon, Red
+Eagle
+Ear Seeker
+Elf, Grugach
+Elf, Valley
+Faerie Dragon
+Fly, Horse
+Forlarren
+Gargoyle
+Ghost
+Giant, Firbolg
+Giant, Fire
+Giant, Frost
+Giant, Verbeeg
+Gnome
+Gorgon
+Greenhag
+Grim
+Groaning Spirit
+Hydra
+Kenku
+Korred
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Mantari
+Mihstu
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Cave Bear
+Minimal, Wild Boar
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Mammoth
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Moon Dog
+Mummy
+Needleman
+Norker
+Nymph
+Pegasus
+Phoenix
+Pixie
+Ouaggoth
+Quickling
+Quickwood
+Raven, Giant
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Shocker
+Skunk
+Swanmay
+Troll, Giant
+Troll, Ice
+Vampire
+Vargouille
+Willow, Black
+Wolf, Winter
+Zombie
+
+COLD, WILDERNESS SWAMPS
+Common
+Centipede, Giant
+Centipede, Huge
+Crocodile, Normal
+Dog, Wild
+Mule
+Ogre
+Orc
+Rat
+Rat, Giant
+Raven, Normal
+Scorpion, Large
+
+Uncommon
+Buccaneer (Pirate)
+Cat, Wild
+Falcon, Small
+Ghoul
+Herd Animal
+Hobgoblin
+Hydra
+Jermlaine
+Mammoth
+Mastodon
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Rhinocerous, Wooly
+Scorpion, Giant
+Scorpion, Huge
+Snake, Poisonous
+Squirrel, Normal
+Troll
+Volt
+Weasel
+Will-0-wisp
+Wolf
+
+Rare
+Bandit
+Bat
+Bear, Black
+Bear, Brown
+Beetle, Giant Bombardier
+Boar, Wild
+Boggart
+Camel, Bactrian
+Caterwaul
+Character Party
+Crab, Giant
+Crystal Ooze
+Falcon, Large
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Hill
+Goblin
+Harpy
+Hoar Fox
+Horse
+Irish Deer
+Leucrotta
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Medusa
+Minotaur
+Mongrelman
+Moon Dog
+Norker
+Obliviax
+Ogre, Aquatic
+Owl
+Porcupine, Giant
+Pudding, White
+Quaggoth
+Raven, Huge
+Screaming Devilkin
+Shadow
+Shadow Mastiff
+Skeleton
+Spectre
+Tiger
+Tiger
+Toad, Ice
+Troll, Giant
+Urchin, Black
+Vapor Rat
+Wolfwere
+Worg
+Xvart
+Zombie
+
+
+Very Rare
+Annis
+Badger
+Barghest
+Bat, Giant
+Berserker
+Boar, Giant
+Brain Mole
+Brownie
+Bugbear
+Coffer Corpse
+Cooshee
+Death, Crimson
+Demon, Alu-
+Demon, Cambion
+Demon, Nabassu
+Deva, Movanic
+Devil Dog
+Doppleganger
+Dragon, Gold
+Dragon, Green
+Dragon, White
+Elf, Wood
+Fly, Giant Horse
+Gargoyle
+Ghost
+Giant, Fog
+Giant, Verbeeg
+Gloomwing
+Gorgon
+Greenhag
+Grim
+Grue, Varrdig
+Haunt
+Hollyphant
+Hydra, Lernaean
+Kech
+Kobold
+Land Urchin
+Lion, Spotted
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Mantari
+Manticore
+Mihstu
+Miner
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Wild Boar
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Tiger
+Minimal, Wolf
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Ogre Magi
+Oliphant
+Owl, Giant
+Phantom
+Quickling
+Quickwood
+Raven, Giant
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Skulk
+Skunk
+Son of Kyuss
+Tenebrous Worm
+Tirapheg
+Transposer
+Treant
+Trilloch
+Troll, Ice
+Urchin, Green
+Urchin, Red
+Vampire
+Vulchling
+Wight
+Black Willow
+Wolf, Dire
+Wolf, Winter
+Wraith
+Zombie, Juju
+Zombie, Monster
+
+COLD, WILDERNESS PLAINS
+Common
+Boar, Wild
+Camel, Bactrian
+Centipede, Giant
+Centipede, Huge
+Dog, Wild
+Falcon, Small
+Herd Animal
+Mammoth
+Mastodon
+Mule
+Ogre
+Rat
+Rat, Giant
+Raven, Normal
+Rhinocerous, Woolly
+Scorpion, Large
+Squirrel, Normal
+Wolf
+
+Uncommon
+Badger
+Bandit
+Bugbear
+Cat, Wild
+Dragon, White
+Falcon, Large
+Ghoul
+Goat
+Horse
+Jermlaine
+Kenku
+Nomad
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Snake, Poisonous
+Tiger
+Weasel
+Wolverine
+
+Rare
+Baluchitherium
+Bat
+Bear, Northern
+Character Party
+Dervishes
+Devil Dog
+Dwarf, Hill
+Dwarf, Mountain
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Hill
+Goblin
+Hoar Fox
+Hobgoblin
+Lion, Mountain
+Lion, Spotted
+Lycanthrope, Wereboar
+Lycanthrope, Werewolf
+Moon Dog
+Mummy
+Ogrillon
+Orc
+Patrol
+Pudding, White
+Quaggoth
+Raven, Giant
+Raven, Huge
+Shedu
+Toad, Ice
+Troll
+Troll, Ice
+Vapor Rat
+Volt
+Wolf, Dire
+Wolfwere
+Wolverine, Giant
+Xvart
+
+
+Very Rare
+Aurumvorax
+Barghest
+Bat, Giant
+Berserker
+Brain Mole
+Castle
+Caterwaul
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Fly, Giant Horse
+Forlarren
+Gambado
+Ghost
+Giant, Firbolg
+Giant, Fire
+Giant, Fog
+Giant, Verbeeg
+Gorgon
+Greenhag
+Grim
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Harpy
+Hollyphant
+Hydra
+Irish Deer
+Land Urchin
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Lynx, Giant
+Manticore
+Medusa
+Miner
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Wild Boar
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Norker
+Oliphant
+Owl, Giant
+Phoenix
+Porcupine, Giant
+Purple Worm
+Quickwood
+Remorhaz
+Sandling
+Screaming Devilkin
+Shade
+Shedu, Greater
+Shocker
+Skulk
+Spriggan
+Troll, Giant
+Vagabond
+Vampire
+Vargouille
+Vortex
+Willow, Black
+Worg
+Yeth Hound
+Zombie
+Zombie, Juju
+
+COLD, WILDERNESS DESERT
+Common
+Camel, Bactrian
+Dog, Wild
+Herd Animal
+Raven, Normal
+Scorpion, Large
+
+Uncommon
+Bandit
+Cat, Wild
+Centipede, Huge
+Falcon, Small
+Fly, Giant Bluebottle
+Horse
+Kenku
+Lion, Mountain
+Nomad
+Ogre
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Snake, Poisonous
+Squirrel, Normal
+Wolf
+Rare
+Boar, Wild
+Character Party
+Dervishes
+Devil Dog
+Dwarf, Hill
+Dwarf, Mountain
+Falcon, Large
+Fly, Giant Horse
+Fortress
+Goblin
+Hoar Fox
+Jermaline
+Lycanthrope, Werewolf
+Mastodon
+Moon Dog
+Mummy
+Orc
+Pudding, White
+Purple Worm
+Rat, Giant
+Raven, Giant
+Raven, Huge
+Rhinocerous, Woolly
+Sandling
+Shedu
+Shocker
+Tiger
+Troll
+Vapor Rat
+Weasel
+Wolf, Dire
+Wolfwere
+
+Very Rare
+Badger
+Barghest
+Bat
+Berserker
+Bugbear
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Dragon, White
+Gambado
+Giant, Fire
+Goat
+Gorgon
+Griffon
+Groaning Spirit
+Grue, Harginn
+Harpy
+Hobgoblin
+Hollyphant
+Lion, Spotted
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Manticore
+Medusa
+Minimal, Badger
+Minimal, Wild Boar
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Norker
+Oliphant
+Owl, Giant
+Pegasus
+Quaggoth
+Ram
+Remorhaz
+Rock Reptile
+Screaming Devilkin
+Shade
+Shedu, Greater
+Skulk
+Troll, Giant
+Troll, Ice
+Vampire
+Vargouille
+Volt
+Vortex
+Wind Walker
+Worg
+Yeth Hound
+Zombie
+
+TEMPERATE, CIVILIZED MOUNTAINS
+
+Common
+Bandit
+Bat
+Dwarf, Mountain
+Falcon, Small
+Ogre
+Raven, Normal
+Spider, Large
+Vulture, Normal
+
+Uncommon
+Bugbear
+Cat, Domestic
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Gnoll
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Lion
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Squirrel, Normal
+Wolf
+Rare
+Beetle, Giant Fire
+Berserker
+Cattle, Wild
+Dragon, Earth
+Dwarf, Hill
+Ghast
+Horse
+Jermlaine
+Killmoulis
+Lammasu
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Mule
+Norker
+Ogrillon
+Pedipalp, Huge
+Pedipalp, Large
+Quaggoth
+Rat
+Rat, Giant
+Shadow
+Shadow Mastiff
+Shedu
+Snake, Giant Constrictor
+Spider, Phase
+Toad, Giant
+Troll
+Vapor Rat
+
+Very Rare
+Aarakocra
+Barghest
+Basilisk
+Brain Mole
+Carrion Crawler
+Castle
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Denzelian
+Deva, Movanic
+Dragon, Gold
+Dragonnel
+Flind
+Ghost
+Gnome
+Grue, Chaggrin
+Grue, Ildriss
+Haunt
+Hell Hound
+Hollyphant
+Ki-rin
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wererat
+Nilbog
+Obliviax
+Oliphant
+Otyugh
+Penanggalan
+Poltergeist
+Rakshasa
+Rothe
+Shade
+Shadow Demon
+Shedu, Greater
+Snake, Giant Amphisbaena
+Snyad
+Spider, Giant
+Thessalhydra
+Vagabond
+Vampire
+Wolf, Dire
+Xaren
+Xorn
+Zombie
+Zombie, Juju
+Zygom
+
+TEMPERATE, CIVILIZED HILLS
+Common
+Bandit
+Cat, Domestic
+Cattle, Wild
+Dwarf, Hill
+Herd Animal
+Lycathrope, Werewolf
+Merchant
+Mule
+Ogre
+Patrol
+Raven, Normal
+Spider, Large
+Squirrel, Normal
+Vulture, Normal
+Wolf
+
+Uncommon
+Basilisk
+Bat
+Booka
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Small
+Ghoul
+Gnoll
+Hobgoblin
+Horse
+Killmoulis
+Leprechaun
+Lion
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Rat
+Rat, Giant
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Rare
+Beetle, Giant Fire
+Beetle, Giant Stag
+Berserker
+Boar, Wild
+Camel, Bactrian
+Castle
+Dwarf, Mountain
+Falcon, Large
+Ghast
+Gnome
+Goblin
+Halfling
+Jackal
+Jermlaine
+Lammasu
+Lycanthrope, Werebear
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Pedipalp, Huge
+Pedipalp, Large
+Shadow Mastiff
+Shedu
+Snake, Giant Constrictor
+Toad, Giant
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Aarakocra
+Barghest
+Brain Mole
+Bugbear
+Bulette
+Bull
+Centipede, Giant
+Coffer Corpse
+Deva, Movanic
+Dragon, Earth
+Dragon, Gold
+Dragonnel
+Elf, Wood
+Flind
+Ghost
+Griffon
+Groaning Spirit
+Grue, Chaggrin
+Grue, Harginn
+Hell Hound
+Hollyphant
+Huecuva
+Jackalwere
+Ki-rin
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Obliviax
+Penanggalan
+Poltergeist
+Quaggoth
+Rakshasa
+Revenant
+Scarecrow
+Shedu, Greater
+Snyad
+Spider, Giant
+Spider, Phase
+Vampire
+Xaren
+Xorn
+Zombie
+Zygom
+
+TEMPERATE, CIVILIZED FOREST
+Common
+Bandit
+Beetle, Giant Fire
+Beetle, Giant Stag
+Boar, Wild
+Bull
+Centipede, Giant
+Centipede, Huge
+Falcon, Small
+Herd Animal
+Lycanthrope, Werewolf
+Ogre
+Patrol
+Rat
+Raven, Normal
+Spider, Large
+Squirrel, Normal
+Toad, Giant
+Uncommon
+Wolf
+Basilisk
+Bat
+Booka
+Bugbear
+Cat, Domestic
+Character Party
+Dog, War
+Elf, Wood
+Falcon, Large
+Gnoll
+Horse
+Jermlaine
+Killmoulis
+Leprechaun
+Lion
+Merchant
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat, Giant
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Spider, Giant
+Spider, Huge
+Stirge
+Troll
+Vulture, Normal
+Rare
+Anhkheg
+Berserker
+Camel, Bactrian
+Castle
+Cattle, Wild
+Dwarf, Hill
+Dwarf, Mountain
+Goblin
+Halfling
+Hobgoblin
+Jackal
+Lammasu
+Luck Eater
+Lycanthrope, Werebear
+Lycanthrope, Wereboar
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Pedipalp, Huge
+Penanggalan
+Pseudo-undead, Ghoul
+Rakshasa
+Shadow
+Spider, Phase
+Thessalhydra
+Tick, Giant
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bookworm
+Brain Mole
+Bulette
+Centipede, Megalo-
+Demon, Bar-Lgura
+Deva, Movanic
+Dragon, Gold
+Ear Seeker
+Flind
+Frog, Giant
+Ghost
+Gnome
+Groaning Spirit
+Jackalwere
+Lammasu, Greater
+Lycanthrope, Wererat
+Norker
+Pedipalp, Large
+Poltergeist
+Quaggoth
+Revenant
+Shadow Demon
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Snake, Giant Amphisbaena
+Vampire
+Zombie
+Zygom
+
+TEMPERATE, CIVILIZED SWAMP
+Common
+Bandit
+Centipede, Giant
+Centipede, Huge
+Mule
+Ogre
+Rat
+Rat, Giant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Toad, Giant
+Vulture, Normal
+Uncommon
+Basilisk
+Buccaner (Pirate)
+Cat, Domestic
+Character Party
+Dog, War
+Falcon, Small
+Frog, Giant
+Ghoul
+Gnoll
+Herd Animal
+Hobgoblin
+Jermlaine
+Lion
+Lycanthrope, Wererat
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Snake, poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Squirrel, Normal
+Troll
+Wolf
+Rare
+Bat
+Beetle, Giant Fire
+Berserker
+Boar, Wild
+Camel, Bactrian
+Cattle, Wild
+Crab, Giant
+Crane, Giant
+Falcon, Large
+Frog, Poisonous
+Ghast
+Goblin
+Horse
+Jackal
+Killmoulis
+Luck Eater
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Norker
+Obliviax
+Owl
+Pedipalp, Huge
+Pedipalp, Large
+Penanggalan
+Quaggoth
+Rakshasa
+Shadow
+Shadow Mastiff
+Skeleton
+Thessalhydra
+Vapor Rat
+Zombie
+
+Very Rare
+Anhkheg
+Barghest
+Bookworm
+Brain Mole
+Bugbear
+Bull
+Castle
+Centipede, Megalo-
+Coffer Corpse
+Crayfish, Giant
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Dragon, Gold
+Elf, Wood
+Flind
+Ghost
+Grue, Varrdig
+Haunt
+Hell Hound
+Hollyphant
+Huecuva
+Jackalwere
+Kelpie
+Lammasu
+Lycanthrope, Wereboar
+Mud-Man
+Oliphant
+Poltergeist
+Revenant
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Snake, Giant Amphisbaena
+Tick, Giant
+Vampire
+Wolf, Dire
+Zombie, Juju
+Zombie, Monster
+Zygom
+
+TEMPERATE, CIVILIZED PLAINS
+Common
+Bandit
+Beetle, Giant Stag
+Boar, Wild
+Bull
+Camel, Bactrian
+Cat, Domestic
+Cattle, Wild
+Centipede, Giant
+Centipede, Huge
+Falcon, Small
+Herd Animal
+Jackal
+Merchant
+Mule
+Ogre
+Patrol
+Rat
+Rat, Giant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Squirrel, Normal
+Toad, Giant
+Vulture, Normal
+Wolf
+Uncommon
+Booka
+Bugbear
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Horse
+Jermlaine
+Killmoulis
+Lion
+Osquip
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Shadow Mastiff
+Snake, Poisonous
+Snake, Giant Poisonous
+Rare
+Anhkheg
+Bat
+Berserker
+Castle
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Ghast
+Goblin
+Halfling
+Hobgoblin
+Jackalwere
+Lammasu
+Luck Eater
+Lycanthrope, Wereboar
+Lycathrope, Werewolf
+Ogrillon
+Pedipalp, Huge
+Pedipalp, Large
+Penanggalan
+Quaggoth
+Shedu
+Snake, Giant Constrictor
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Basilisk
+Bookworm
+Brain Mole
+Bulette
+Centipede, Megalo-
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Flind
+Frog, Giant
+Ghost
+Gnoll
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Hollyphant
+Huecuva
+Lammasu, Greater
+Leprechaun
+Lycanthrope, Wererat
+Norker
+Oliphant
+Rakshasa
+Scarecrow
+Shade
+Shedu, Greater
+Snake, Giant Amphisbaena
+Tween
+Vagabond
+Vampire
+Vortex
+Zombie
+Zombie, Juju
+Zygom
+
+TEMPERATE, CIVILIZED DESERT
+Common
+Bandit
+Camel, Bactrian
+Herd Animal
+Jackal
+Merchant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Vulture, Normal
+Uncommon
+Cat, Domestic
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Small
+Horse
+Lion
+Ogre
+Osquip
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Shadow Mastiff
+Snake, Poisonous
+Snake, Giant Poisonous
+Squirrel, Normal
+Wolf
+Rare
+Berserker
+Boar, Wild
+Cattle, Wild
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Falcon, Large
+Flind
+Goblin
+Jackalwere
+Jermlaine
+Lammasu
+Lycanthrope, Werewolf
+Pedipalp, Huge
+Pedipalp, Large
+Poltergeist
+Rat, Giant
+Shedu
+Snake, Giant Constrictor
+Toad, Giant
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bat
+Booka
+Bugbear
+Bulette
+Bull
+Castle
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Griffon
+Groaning Spirit
+Grue, Harginn
+Hell Hound
+Hobgoblin
+Holyphant
+Huecuva
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Norker
+Oliphant
+Penanggalan
+Quaggoth
+Rakshasa
+Ram
+Shade
+Shedu, Greater
+Vampire
+Vortex
+Zombie
+
+TEMPERATE, WILDERNESS MOUNTAINS
+Common
+Bat
+Dog, Wild
+Dwarf, Mountain
+Falcon, Small
+Ogre
+Orc
+Raven, Normal
+Skunk
+Spider, Large
+Vulture, Normal
+Uncommon
+Bandit
+Bear, Cave
+Bloodhawk
+Bugbear
+Cat, Wild
+Centipede, Huge
+Cockatrice
+Falcon, Large
+Ghoul
+Giant, Fire
+Giant, Fomorian
+Giant, Hill
+Giant, Stone
+Gnoll
+Goat
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Lion
+Lion, Mountain
+Manticore
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Ram
+Scorpion, Huge
+Scorpion, Large
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Squirrel, Giant Black
+Squirrel, Normal
+Tiger
+Weasel
+Witherweed
+Wolf
+Rare
+Bat, Giant
+Bear, Black
+Bear, Brown
+Bear, Northern
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Giant Boring
+Beetle, Giant Fire
+Blink Dog
+Bonesnapper
+Caterwaul
+Cattle, Wild
+Caveman
+Character Party
+Chimera
+Cyclopskin
+Dakon
+Dragon, Earth
+Dragon, Red
+Dwarf, Hill
+Eagle
+Eagle, Giant
+Firedrake
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Cloud
+Giant, Frost
+Giant, Storm
+Giant, Verbeeg
+Gorgon
+Hippogriff
+Horse
+Harpy
+Jermlaine
+Lammasu
+Leucrotta
+Lion, Spotted
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Margoyle
+Mastodon
+Minotaur
+Mongrelman
+Moon Dog
+Mule
+Norker
+Ogrillon
+Owl, Giant
+Owlbear
+Pedipalp, Huge
+Pedipalp, Large
+Peryton
+Phycomid
+Pyrolisk
+Quaggoth
+Ram, Giant
+Rat
+Rat, Giant
+Raven, Giant
+Raven, Huge
+Rhinoceros
+Rock Reptile
+Screaming Devilkin
+Shadow
+Shadow Mastiff
+Shedu
+Shocker
+Skulk
+Snake, Giant Constrictor
+Spectre
+Spider, Phase
+Stag, Giant
+Su-monster
+Toad, Giant
+Tunnel Worm
+Vapor Rat
+Vilstrak
+Volt
+Wasp, Giant
+Whipweed
+Wight
+Wind Walker
+Wolfwere
+Worg
+Wyvern
+Xvart
+Zorbo
+
+Very Rare
+Aarakocra
+Achaieria
+Annis
+Ascomoid
+Badger
+Barghest
+Basilisk
+Behir
+Berserker
+Black Pudding
+Boggart
+Boggle
+Brain Mole
+Carrion Crawler
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Demon, Nabassu
+Denzelian
+Deva, Movanic
+Displacer Beast
+Doppleganger
+Dragon, Black
+Dragon, Bronze
+Dragon, Cloud
+Dragon, Gold
+Dragon, Silver
+Dragon Horse
+Dragonnel
+Elf, Valley
+Ettercap
+Ettin
+Executioner's Hood
+Firefriend
+Flind
+Fly, Giant Horsefly
+Forlarren
+Galeb Duhr
+Gargoyle
+Gelatinous Cube
+Ghost
+Giant, Firebolg
+Giant, Mountain
+Gibberling
+Gloomwing
+Gnome
+Gorgimera
+Grim
+Grue, Chaggrin
+Grue, Ildriss
+Haunt
+Hell Hound
+Hollyphant
+Hornet, Giant
+Hydra
+Hydra, Pyro-
+Khargra
+Ki-rin
+Kobold
+Lammasu, Greater
+Land Lamprey
+Lava Children
+Lizard, Fire
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Magnesium Spirit
+Mantari
+Meazel
+Medusa
+Meenlock
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Cave Bear
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Mammoth
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Nightmare
+Nilbog
+Obliviax
+Ogre Mage
+Oliphant
+Otyugh
+Pech
+Pegasus
+Porcupine, Giant
+Pseudo Dragon
+Quickwood
+Rothe
+Sandman
+Shade
+Shedu, Greater
+Skunk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Spider, Giant
+Spriggan
+Squirrel, Carniv. Flying
+Stegocentipede
+Storoper
+Sundew, Giant
+Sussurus
+Sylph
+Tenebrous Worm
+Tentamort
+Thessalhydra
+Tirapheg
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Toad, Poisonous
+Transposer
+Troll, Giant Two-headed
+Umpleby
+Ustilagor
+Vagabond
+Vampire
+Vargouille
+Vulchling
+Vulture, Giant
+Will-0-wisp
+Witherstench
+Wolf, Dire
+Wraith
+Xaren
+Xill
+Xorn
+Yellow Musk Creeper
+Yeth Hound
+Zombie
+Zombie, Juju
+Zombie, Yellow Musk
+Zygom
+
+TEMPERATE, WILDERNESS HILLS
+Common
+Bear, Black
+Bear, Brown
+Cattle, Wild
+Dog, Wild
+Dwarf, Hill
+Giant, Hill
+Herd Animal
+Lycanthrope, Werewolf
+Mule
+Ogre
+Orc
+Raven, Normal
+Skunk
+Spider, Large
+Squirrel, Normal
+Vulture, Normal
+Wolf
+Uncommon
+Bandit
+Basilisk
+Bat
+Bear, Cave
+Cat, Wild
+Centipede, Huge
+Dakon
+Falcon, Small
+Ghoul
+Giant, Verbeeg
+Gnoll
+Goat
+Hobgoblin
+Horse
+Kenku
+Leprechaun
+Lion
+Mastodon
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Rat
+Rat, Giant
+Rhinoceros
+Satyr
+Scorpion, Large
+Skunk
+Snake, poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Stag
+Tiger
+Witherweed
+Rare
+Adherer
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Bat, Giant
+Bear, Northern
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Beetle, Giant Stag
+Blink Dog
+Bloodhawk
+Boar, Warthog
+Boar, Wild
+Bowler
+Camel, Bactrian
+Caveman
+Centaur
+Character Party
+Chimera
+Choke Creeper
+Cyclopskin
+Dragon, Red
+Dwarf, Mountain
+Falcon, Large
+Firedrake
+Fortress
+Ghast
+Giant, Cloud
+Gnome
+Goblin
+Harpy
+Jackal
+Jermlaine
+Lammasu
+Lion, Mountain
+Lycanthrope, Werebear
+Mantis, Giant
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Patrol
+Pedipalp, Huge
+Pedipalp, Large
+Peryton
+Porcupine, Giant
+Purple Worm
+Raven, Giant
+Raven, Huge
+Rock Reptile
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Shedu
+Skulk
+Snake, Giant Constrictor
+Stag, Giant
+Su-monster
+Titanothere
+Toad, Giant
+Troll
+Troll, Giant
+Unicorn
+Vapor Rat
+Volt
+Wasp, Giant
+Weasel
+Whipweed
+Wolf, Dire
+Worg
+Xvart
+
+Very Rare
+Aarakocra
+Achaieria
+Ascomoid
+Assassin Bug
+Atomie
+Axebeak
+Badger
+Barghest
+Basidirond
+Basilisk, Greater
+Beaver, Giant
+Beetle, Giant Slicer
+Behir
+Berserker
+Boar, Giant
+Boggle
+Brain Mole
+Brownie
+Bugbear
+Bulette
+Bull
+Castle
+Centipede, Giant
+Clubnek
+Cockatrice
+Coffer Corpse
+Cooshee
+Deva, Movanic
+Displacer Beasts
+Dragon, Earth
+Dragon, Gold
+Dragon, Green
+Dragonnel
+Elf, Grugach
+Elf, Wood
+Ettercap
+Flind
+Fly, Giant Bluebottle
+Forlarren
+Galeb Duhr
+Ghost
+Giant, Fire
+Giant, Fog
+Giant, Frost
+Giant, Stone
+Gibberling
+Gorgimera
+Gorgon
+Griffon
+Grig
+Grim
+Groaning Spirit
+Grue, Chaggrin
+Grue, Harginn
+Hangman Tree
+Hell Hound
+Hippogriff
+Hollyphant
+Hornet, Giant
+Huecuva
+Hybsil
+Irish Deer
+Jackalwere
+Ki-rin
+Kobold
+Lammasu, Greater
+Land Lamprey
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Manticore
+Margoyle
+Medusa
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Cave Bear
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Mammoth
+Minimal, Rhinoceros
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Moon Dog
+Mummy
+Nymph
+Obliviax
+Owl, Giant
+Pegasus
+Pseudo Dragon
+Pyrolisk
+Quasi-elemental, Lightning
+Quaggoth
+Quickwood
+Ram, Giant
+Screaming Devilkin
+Shedu, Greater
+Shocker
+Snake, Giant Spitting
+Spider, Giant
+Spider, Phase
+Spriggan
+Stegocentipede
+Sundew, Giant
+Tenebrous Worm
+Toad, Poisonous
+Vampire
+Vargouille
+Vilstrak
+Vulture, Giant
+Wolf-in-Sheep's Clothing
+Wolfwere
+Xaren
+Xorn
+Yeth Hound
+Zombie
+Zorbo
+Zygom
+
+TEMPERATE, WILDERNESS FOREST
+Common
+Bear, Black
+Bear, Brown
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Beetle, Giant Stag
+Boar, Warthog
+Boar, Wild
+Bull
+Centipede, Giant
+Centipede, Huge
+Dog, Wild
+Falcon, Small
+Herd Animal
+Lycanthrope, Werewolf
+Mastodon
+Ogre
+Orc
+Rat
+Raven, Normal
+Rhinoceros
+Skunk
+Spider, Large
+Squirrel, Normal
+Stag
+Toad, Giant
+Wolf
+Uncommon
+Badger
+Bandit
+Basilisk
+Bat
+Boar, Giant
+Bugbear
+Cat, Wild
+Clubnek
+Dakon
+Elf, Wood
+Falcon, Large
+Gibberling
+Gnoll
+Hornet, Giant
+Horse
+Jermlaine
+Kobold
+Leprechaun
+Lion
+Lion, Mountain
+Manticore
+Owl
+Pilgrim
+Porcupine, Giant
+Pseudo-undead, Vampire
+Rat, Giant
+Scorpion, Huge
+Scorpion, Large
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Spider, Giant
+Spider, Huge
+Stirge
+Su-monster
+Sundew, Giant
+Tiger
+Toad, Poisonous
+Troll
+Vulture, Normal
+Weasel
+Whipweed
+Witherweed
+Wyvern
+Xvart
+Rare
+Adherer
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Atomie
+Axebeak
+Baluchitherium
+Barkburr
+Basidirond
+Bear, Northern
+Bee, Giant Honey
+Beetle, Giant Slicer
+Blink Dog
+Brownie
+Buckawn
+Bullywug
+Camel, Bactrian
+Carbuncle
+Cattle, Wild
+Caveman
+Centaur
+Character Party
+Choke Creeper
+Cifal
+Cooshee
+Dragon, Green
+Dwarf, Hill
+Dwarf, Mountain
+Elf, Gray
+Ettercap
+Executioner's Hood
+Fly, Giant Bluebottle
+Fortress
+Gambado
+Giant, Hill
+Goblin
+Harpy
+Hobgoblin
+Irish Deer
+Jackal
+Kech
+Lammasu
+Land Lamprey
+Lycanthrope, Werebear
+Lycanthrope, Wereboar
+Mantis, Giant
+Medusa
+Miner
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Owl, Giant
+Owlbear
+Patrol
+Pedipalp, Huge
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Raven, Huge
+Scorpion, Giant
+Screaming Devilkin
+Shadow
+Skulk
+Spider, Phase
+Sprite
+Squirrel, Carniv. Flying
+Squirrel, Giant Black
+Tenebrous Worm
+Thessalhydra
+Tick, Giant
+Titanothere
+Treant
+Volt
+Vulchling
+Wasp, Giant
+Weasel, Giant
+Wolf, Dire
+Wolfwere
+Worg
+Yellow Musk Creeper
+Zombie, Yellow Musk
+
+Very Rare
+Achaieria
+Al-mi'raj
+Annis
+Assassin Bug
+Aurumvorax
+Barghest
+Basilisk, Greater
+Bat, Giant
+Bear, Cave
+Beaver, Giant
+Bee, Giant Bumble-
+Beetle, Death Watch
+Berserker
+Bloodhawk
+Bloodthorn
+Boobrie
+Brain Mole
+Bulette
+Castle
+Catoblepas
+Centipede, Megalo-
+Cockatrice
+Demon, Bar-Lgura
+Deva, Movanic
+Displacer Beasts
+Dragon, Coiled
+Dragon, Gold
+Dragon, Mist
+Dragon, Red
+Dryad
+Eagle
+Ear Seeker
+Elf, Grugach
+Elf, Valley
+Elfin Cat
+Faerie Dragon
+Firefriend
+Flind
+Fly, Giant Horse
+Forester's Bane
+Forlarren
+Frog, Giant
+Gargoyle
+Ghost
+Giant, Firebolg
+Giant, Fire
+Giant, Frost
+Giant, Verbeeg
+Gnome
+Gorgon
+Greenhag
+Grim
+Groaning Spirit
+Hangman Tree
+Hybsil
+Hydra
+Jackalwere
+Kampfult
+Kenku
+Korred
+Lammasu, Greater
+Lizard, Giant
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Mandragora
+Mantari
+Meazel
+Mihstu
+Minimal, Mountain Lion
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Cave Bear
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Mammoth
+Minimal, Rhinoceros
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Moon Dog
+Mummy
+Needleman
+Norker
+Nymph
+Pedipalp, Large
+Pegasus
+Phoenix
+Pixie
+Pseudo Dragon
+Pudding, Deadly (Brown)
+Pyrolisk
+Quaggoth
+Ouickling
+Quickwood
+Qullan
+Raven, Giant
+Scum Creeper
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Shocker
+Skunk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Squealer
+Stegocentipede
+Sussurus
+Swanmay
+Tiger Fly
+Troll, Giant
+Umpleby
+Ustilagor
+Vampire
+Vargouille
+Willow, Black
+Witherstench
+Wolf-in-Sheep's-Clothing
+Zombie
+Zorbo
+Vegepygmy
+Zygom
+
+TEMPERATE, WILDERNES SWAMP
+Common
+Centipede, Giant
+Centipede, Huge
+Crocodile, Normal
+Dog, Wild
+Mule
+Ogre
+Orc
+Rat
+Rat, Giant
+Raven, Normal
+Rhinoceros
+Scorpion, Large
+Skunk
+Spider, Huge
+Spider, Large
+Throat Leech
+Toad, Giant
+Vulture, Normal
+Uncommon
+Axebeak
+Basilisk
+Buccaneer (Pirate)
+Cat, Wild
+Cockatrice
+Falcon, Small
+Frog, Giant
+Ghoul
+Gnoll
+Herd Animal
+Hobgoblin
+Hornet, Giant
+Hydra
+Jermlaine
+Land Lamprey
+Leech, Giant
+Lion
+Lizard, Giant
+Mastodon
+Meazel
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Pudding, Deadly (Brown)
+Scorpion, Huge
+Scum Creeper
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Squirrel, Normal
+Su-monster
+Sundew, Giant
+Toad, Poisonous
+Troll
+Volt
+Weasel
+Whipweed
+Will-0-wisp
+Witherweed
+Wolf
+Wyvern
+
+Rare
+Adherer
+Assassin Bug
+Bandit
+Basidirond
+Bat
+Bear, Black
+Bear, Brown
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Beetle, Giant Stag
+Bloodhawk
+Boar, Warthog
+Boar, Wild
+Boggart
+Boobrie
+Bullywug
+Bunyip
+Camel, Bactrian
+Carbuncle
+Caterwaul
+Cattle, Wild
+Character Party
+Cifal
+Crab, Giant
+Crane, Giant
+Crystal Ooze
+Dragon, Coiled
+Dragonfly, Giant
+Falcon, Large
+Fly, Giant Bluebottle
+Fortress
+Frog, Poisonous
+Gas Spore
+Ghast
+Giant, Hill
+Goblin
+Harpy
+Horse
+Hybsil
+Irish Deer
+Jackal
+Leucrotta
+Lizard Man
+Lycanthrope, Werebear
+Lycanthrope, Werewolf
+Medusa
+Minotaur
+Mongrelman
+Moon Dog
+Muckdweller
+Norker
+Obliviax
+Ogre, Aquatic
+Owl
+Owlbear
+Pedipalp, Huge
+Pedipalp, Large
+Phycomid
+Porcupine, Giant
+Pyrolisk
+Ouaggoth
+Raven, Huge
+Screaming Devilkin
+Shadow
+Shadow Mastiff
+Shambling Mound
+Skeleton
+Snake, Giant Spitting
+Spectre
+Thessalhydra
+Tiger
+Tiger Fly
+Titanothere
+Troll, Giant
+Urchin, Black
+Ustilagor
+Vapor Rat
+Wasp, Giant
+Weasel, Giant
+Wolfwere
+Worg
+Xvart
+Zombie
+
+Very Rare
+Achaierai
+Algoid
+Annis
+Badger
+Barghest
+Barkburr
+Basilisk, Greater
+Bat, Giant
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Death Watch
+Beetle, Giant Slicer
+Beholder
+Berserker
+Boar, Giant
+Brain Mole
+Brownie
+Bugbear
+Bull
+Centipede, Megalo-
+Clubnek
+Coffer Corpse
+Cooshee
+Crabman
+Crayfish, Giant
+Death, Crimson
+Demon, Alu-
+Demon, Chambion
+Demon, Nabassu
+Deva, Movanic
+Displacer Beasts
+Doppleganger
+Dracolisk
+Dragon, Black
+Dragon, Gold
+Dragon, Green
+Dragon, Mist
+Eblis
+Elf, Wood
+Firefriend
+Flind
+Fly, Giant Horsefly
+Forester's Bane
+Galltrit
+Gargoyle
+Ghost
+Giant, Fog
+Giant, Verbeeg
+Gibberling
+Gloomwing
+Gorgon
+Greenhag
+Grim
+Grue, Varrdig
+Hangman Tree
+Haunt
+Hell Hound
+Hollyphant
+Huecuva
+Hydra, Pryo-
+Jackalwere
+Kech
+Kelpie
+Kenku
+Kobold
+Lammasu
+Land Urchin
+Lion, Spotted
+Lizard King
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Mandragora
+Mantari
+Manticore
+Mihstu
+Miner
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Minimal, Wolf
+Mud-Man
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Ogre Magi
+Oliphant
+Owl, Giant
+Phantom
+Ouickling
+Quickwood
+Oullan
+Raven, Giant
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Skulk
+Skunk
+Snake, Giant Amphisbaena
+Son of Kyuss
+Squealer
+Stegocentipede
+Sussurus
+Tenebrous Worm
+Tentamort
+Tick, Giant
+Tirapheg
+Transposer
+Treant
+Trilloch
+Umpleby
+Urchin, Green
+Urchin, Red
+Vampire
+Vulchling
+Vulture, Giant
+Wight
+Willow, Black
+Witherstench
+Wolf, Dire
+Wraith
+Zombie, Juju
+Zombie, Monster
+Vegepygmy
+Zygom
+
+TEMPERATE, WILDERNESS PLAINS
+Common
+Beetle, Giant Stag
+Boar, Wild
+Bull
+Camel, Bactrian
+Cattle, Wild
+Centipede, Giant
+Centipede, Huge
+Dog, Wild
+Falcon, Small
+Herd Animal
+Jackal
+Mastodon
+Mule
+Ogre
+Rat
+Rat, Giant
+Raven, Normal
+Rhinoceros
+Scorpion, Large
+Skunk
+Spider, Huge
+Spider, Large
+Squirrel, Normal
+Stag
+Toad, Giant
+Vulture, Normal
+Wolf
+Uncommon
+Badger
+Bandit
+Bugbear
+Cat, Wild
+Clubnek
+Dakon
+Falcon, Large
+Ghoul
+Goat
+Horse
+Jermlaine
+Kenku
+Lion
+Nomad
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Ram
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Snake, Poisonous
+Snake, Giant Poisonous
+Tiger
+Titanothere
+Weasel
+Witherweed
+Rare
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Axebeak
+Baluchitherium
+Bat
+Bear, Northern
+Bee, Giant Bumble-
+Beetle, Giant Slicer
+Blink Dog
+Bonesnapper
+Centaur
+Character Party
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Hill
+Goblin
+Hobgoblin
+Hybsil
+Lammasu
+Land Lamprey
+Lion, Mountain
+Lion, Spotted
+Lycanthrope, Wereboar
+Lycanthrope, Werewolf
+Moon Dog
+Mummy
+Ogrillon
+Orc
+Patrol
+Pedipalp, Huge
+Pedipalp, Large
+Quaggoth
+Raven, Giant
+Raven, Huge
+Shedu
+Snake, Giant Constrictor
+Tiger Fly
+Troll
+Vapor Rat
+Volt
+Wasp, Giant
+Whipweed
+Wolf, Dire
+Wolfwere
+Wyvern
+Xvart
+
+
+Very Rare
+Al-mi'raj
+Ascomoid
+Assassin Bug
+Atomie
+Aurumvorax
+Barghest
+Basidirond
+Basilisk
+Bat, Giant
+Bee, Giant Honey
+Berserker
+Bloodhawk
+Brain Mole
+Bulette
+Castle
+Caterwaul
+Centipede, Megalo-
+Cifal
+Cockatrice
+Beetle, Death Watch
+Demon, Alu-
+Demon, Cambion
+Deva, Movanic
+Disenchanter
+Displacer Beasts
+Dragon, Coiled
+Dragon, Earth
+Dragon, Gold
+Dustdigger
+Firefriend
+Flind
+Flumph
+Fly, Giant Horse
+Forester's Bane
+Forlarren
+Frog, Giant
+Gambado
+Ghost
+Giant, Firbolg
+Giant, Fire
+Giant, Fog
+Giant, Verbeeg
+Gnoll
+Gorgon
+Greenhag
+Grim
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Holyphant
+Hornet, Giant
+Huecuva
+Hydra,
+Hydra, Pyro-
+Irish Deer
+Lammasu, Greater
+Land Urchin
+Leprechaun
+Lizard, Giant
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Manticore
+Meazel
+Medusa
+Meenlock
+Miner
+Minimal, Badger
+Minimal, Black Bear
+Minimal, Brown Bear
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Stag
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Norker
+Oliphant
+Owl, Giant
+Phoenix
+Porcupine, Giant
+Pudding, Deadly (Brown)
+Purple Worm
+Pyrolisk
+Ouickwood
+Qullan
+Sandling
+Sandman
+Screaming Devilkin
+Scum Creeper
+Harpy
+Shade
+Shedu, Greater
+Shocker
+Skulk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Spriggan
+Stegocentipede
+Su-monster
+Sundew, Giant
+Sussurus
+Thunderherder
+Toad, Poisonous
+Troll, Giant
+Ustilagor
+Vagabond
+Vampire
+Vargouille
+Vortex
+Vulture, Giant
+Weasel, Giant
+Wemic
+Willow, Black
+Witherstench
+Wolf-in-Sheep's-Clothing
+Worg
+Yeth Hound
+Zombie
+Zombie, Juju
+Zorbo
+Zygom
+
+TEMPERATE, WILDERNESS DESERT
+Common
+Camel, Bactrian
+Dog, Wild
+Herd Animal
+Jackal
+Raven, Normal
+Scorpion, Large
+Spider, Huge
+Spider, Large
+Vulture, Normal
+
+Uncommon
+Bandit
+Cat, Wild
+Centipede, Huge
+Dustdigger
+Falcon, Small
+Fly, Giant Bluebottle
+Horse
+Kenku
+Lion
+Lion, Mountain
+Nomad
+Ogre
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Rhinoceros
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Skunk
+Snake, Poisonous
+Snake, Giant Poisonous
+Squirrel, Normal
+Toad, Poisonous
+Wolf
+Rare
+Ant Lion, Giant
+Aspis
+Bee, Giant Bumble-
+Blink Dog
+Boar, Wild
+Cattle, Wild
+Character Party
+Chimera
+Dervishes
+Dwarf, Hill
+Dwarf, Mountain
+Falcon, Large
+Firetoad
+Flind
+Fly, Giant Horse
+Fortress
+Goblin
+Jackalwere
+Jermaline
+Lammasu
+Lycanthrope, Werewolf
+Mastodon
+Moon Dog
+Mummy
+Orc
+Pedipalp, Huge
+Pedipalp, Large
+Purple Worm
+Rat, Giant
+Raven, Giant
+Raven, Huge
+Sandling
+Sandman
+Shedu
+Shocker
+Snake, Giant Constrictor
+Thunderherder
+Tiger
+Titanothere
+Toad, Giant
+Troll
+Vapor Rat
+Weasel
+Whipweed
+Witherweed
+Wolf, Dire
+Wolfwere
+
+Very Rare
+Ascomoid
+Badger
+Barghest
+Bat
+Berserker
+Bloodhawk
+Bugbear
+Bull
+Bulette
+Centipede, Giant
+Cifal
+Clubnek
+Cockatrice
+Coffer Corpse
+Crypt Thing
+Dakon
+Death Dog
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Disenchanter
+Displacer Beasts
+Dragon, Earth
+Dragon, Gold
+Dune Stalker
+Flumph
+Gambado
+Giant, Fire
+Goat
+Gorgimera
+Gorgon
+Griffon
+Groaning Spirit
+Grue, Harginn
+Harpy
+Hell Hound
+Hobgoblin
+Hollyphant
+Hornet, Giant
+Huecuva
+Lamia
+Lamia Noble
+Lammasu, Greater
+Lion, Spotted
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Manticore
+Medusa
+Meenlock
+Minimal, Badger
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Minimal, Wolf
+Mongrelman
+Norker
+Oliphant
+Opinicus
+Owl, Giant
+Pegasus
+Pyrolisk
+Ouaggoth
+Ram
+Rock Reptile
+Screaming Devilkin
+Shade
+Shedu, Greater
+Skulk
+Snake, Giant Spitting
+Stegocentipede
+Tiger Fly
+Troll, Giant
+Vampire
+Vargouille
+Volt
+Vortex
+Vulture, Giant
+Wemic
+Wind Walker
+Worg
+Wyvern
+Yeth Hound
+Zombie
+Zorbo
+
+TROPICAL, CIVILIZED MOUNTAINS
+Common
+Bandit
+Bat
+Falcon, Small
+Ogre
+Raven, Normal
+Spider, Large
+Vulture, Normal
+Uncommon
+Bugbear
+Cat, Domestic
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Gnoll
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Lion
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Wolf
+Rare
+Beetle, Giant Fire
+Berserker
+Cattle, Wild
+Dragon, Earth
+Dwarf, Hill
+Ghast
+Horse
+Jermlaine
+Killmoulis
+Lammasu
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Mule
+Norker
+Ogrillon
+Pedipalp, Huge
+Pedipalp, Large
+Quaggoth
+Rat
+Rat, Giant
+Shadow
+Shadow Mastiff
+Shedu
+Snake, Giant Constrictor
+Spider, Phase
+Toad, Giant
+Troll
+Vapor Rat
+
+Very Rare
+Aarakocra
+Barghest
+Basilisk
+Brain Mole
+Castle
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Denzelian
+Deva, Movanic
+Dragon, Gold
+Dragonnel
+Flind
+Ghost
+Gnome
+Grue, Chaggrin
+Grue, Ildriss
+Haunt
+Hell Hound
+Hollyphant
+Ki-rin
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wererat
+Nilbog
+Obliviax
+Oliphant
+Pedipalp, Giant
+Penanggalan
+Poltergeist
+Rakshasa
+Rothe
+Shade
+Shadow Demon
+Shedu, Greater
+Snake, Giant Amphisbaena
+Snyad
+Spider, Giant
+Thessalhydra
+Vagabond
+Vampire
+Wolf, Dire
+Xaren
+Xorn
+Zombie
+Zombie, Juju
+Otyugh
+Zygom
+
+TROPICAL, CIVILIZED HILLS
+Common
+Bandit
+Cat, Domestic
+Cattle, Wild
+Dwarf, Hill
+Herd Animal
+Lycanthrope, Werewolf
+Merchant
+Mule
+Ogre
+Patrol
+Raven, Normal
+Spider, Large
+Vulture, Normal
+Wolf
+Uncommon
+Basilisk
+Bat
+Centipede, Huge
+Character Party
+Dog, War
+Falcon, Small
+Ghoul
+Gnoll
+Hobgoblin
+Horse
+Killmoulis
+Lion
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Rat
+Rat, Giant
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Rare
+Beetle, Giant Fire
+Berserker
+Boar, Wild
+Camel, Bactrian
+Castle
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Ghast
+Gnome
+Goblin
+Halfling
+Jackal
+Jermlaine
+Lammasu
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Pedipalp, Huge
+Pedipalp, Large
+Shadow Mastiff
+Shedu
+Snake, Giant Constrictor
+Toad, Giant
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Aarakocra
+Baku
+Barghest
+Brain Mole
+Bugbear
+Bull
+Centipede, Giant
+Coffer Corpse
+Deva, Movanic
+Dragon, Earth
+Dragon, Gold
+Dragonnel
+Elf, Wood
+Flind
+Ghost
+Griffon
+Groaning Spirit
+Grue, Chaggrin
+Grue, Harginn
+Hell Hound
+Hollyphant
+Huecuva
+Jackalwere
+Ki-rin
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Obliviax
+Pedipalp, Giant
+Penanggalan
+Poltergeist
+Quaggoth
+Rakshasa
+Revenant
+Shedu, Greater
+Snyad
+Spider, Giant
+Spider, Phase
+Vampire
+Xaren
+Xorn
+Zombie
+Zygom
+
+TROPICAL, CIVILIZED FOREST
+Common
+Bandit
+Beetle, Giant Fire
+Boar, Wild
+Bull
+Centipede, Giant
+Centipede, Huge
+Elephant, African
+Elephant, Asian
+Falcon, Small
+Herd Animal
+Lycanthrope, Werewolf
+Ogre
+Patrol
+Rat
+Raven, Normal
+Spider, Large
+Toad, Giant
+Wolf
+Uncommon
+Basilisk
+Bat
+Bugbear
+Cat, Domestic
+Character Party
+Dog, War
+Elf, Wood
+Falcon, Large
+Gnoll
+Horse
+Jermlaine
+Killmoulis
+Lion
+Merchant
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat, Giant
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Spider, Giant
+Spider, Huge
+Stirge
+Troll
+Vulture, Normal
+Rare
+Anhkheg
+Baku
+Berserker
+Camel, Bactrian
+Castle
+Cattle, Wild
+Dwarf, Hill
+Goblin
+Halfling
+Hobgoblin
+Jackal
+Lammasu
+Luck Eater
+Lycanthrope, Wereboar
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Pedipalp, Huge
+Penanggalan
+Pseudo-undead, Ghoul
+Rakshasa
+Shadow
+Spider, Phase
+Thessalhydra
+Tick, Giant
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bookworm
+Brain Mole
+Centipede, Megalo
+Demon, Bar-Lgura
+Deva, Movanic
+Dragon, Gold
+Ear Seeker
+Flind
+Frog, Giant
+Ghost
+Gnome
+Groaning Spirit
+Jackalwere
+Lammasu, Greater
+Lycanthrope, Wererat
+Norker
+Pedipalp, Giant
+Pedipalp, Large
+Poltergeist
+Quaggoth
+Revenant
+Shadow Demon
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Snake, Giant Amphisbaena
+Vampire
+Zombie
+Zygom
+
+TROPICAL, CIVILIZED SWAMP
+Common
+Bandit
+Centipede, Giant
+Centipede, Huge
+Mule
+Ogre
+Rat
+Rat, Giant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Toad, Giant
+Vulture, Normal
+Uncommon
+Basilisk
+Buccaneer (Pirate)
+Cat, Domestic
+Character Party
+Dog, War
+Falcon, Small
+Frog, Giant
+Ghoul
+Gnoll
+Herd Animal
+Hobgoblin
+Jermlaine
+Lion
+Lycanthrope, Wererat
+Patrol
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Troll
+Wolf
+Rare
+Bat
+Beetle, Giant Fire
+Berserker
+Boar, Wild
+Camel, Bactrian
+Cattle, Wild
+Crab, Giant
+Crane, Giant
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Frog, Poisonous
+Ghast
+Goblin
+Horse
+Jackal
+Killmoulis
+Luck Eater
+Lycanthrope, Werewolf
+Merchant
+Minotaur
+Norker
+Obliviax
+Owl
+Pedipalp, Huge
+Pedipalp, Large
+Penanggalan
+Quaggoth
+Rakshasa
+Shadow
+Shadow Mastiff
+Skeleton
+Thessalhydra
+Vapor Rat
+Zombie
+
+Very Rare
+Anhkheg
+Baku
+Barghest
+Bookworm
+Brain Mole
+Bugbear
+Bull
+Castle
+Centipede, Megalo
+Coffer Corpse
+Crayfish, Giant
+Demon, Alu
+Demon, Cambion
+Deva, Movanic
+Dragon, Gold
+Elf, Wood
+Flind
+Ghost
+Grue, Varrdig
+Haunt
+Hell Hound
+Hollyphant
+Huecuva
+Jackalwere
+Kelpie
+Lammasu
+Lycanthrope, Wereboar
+Mud-Man
+Oliphant
+Pedipalp, Giant
+Poltergeist
+Revenant
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Snake, Giant Amphisbaena
+Tick, Giant
+Vampire
+Wolf, Dire
+Zombie, Juju
+Zombie, Monster
+Zygom
+
+TROPICAL, CIVILIZED PLAINS
+
+Common
+Bandit
+Boar, Wild
+Bull
+Camel, Bactrian
+Cat, Domestic
+Cattle, Wild
+Centipede, Giant
+Centipede, Huge
+Elephant, African
+Elephant, Asian
+Falcon, Small
+Herd Animal
+Jackal
+Merchant
+Mule
+Ogre
+Patrol
+Rat
+Rat, Giant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Toad, Giant
+Vulture, Normal
+Wolf
+Uncommon
+Bugbear
+Character Party
+Dog, War
+Falcon, Large
+Ghoul
+Horse
+Jermlaine
+Killmoulis
+Lion
+Osquip
+Owl
+Pilgrim
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Shadow Mastiff
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Rare
+Anhkheg
+Bat
+Berserker
+Camel, Dromedary
+Castle
+Dervishes
+Dwarf, Hill
+Ghast
+Goblin
+Halfling
+Hobgoblin
+Jackalwere
+Lammasu
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Werewolf
+Ogrillon
+Pedipalp, Huge
+Pedipalp, Large
+Penanggalan
+Poltergeist
+Quaggoth
+Shedu
+Snake, Giant Constrictor
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Basilisk
+Bookworm
+Brain Mole
+Centipede, Megalo
+Demon, Alu
+Demon, Chambion
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Flind
+Frog, Giant
+Ghost
+Gnoll
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Hollyphant
+Huecuva
+Lammasu, Greater
+Lycanthrope, Wererat
+Norker
+Oliphant
+Pedipalp, Giant
+Rakshasa
+Shade
+Shedu, Greater
+Snake, Giant Amphisbaena
+Tween
+Vagabond
+Vampire
+Vortex
+Zombie
+Zombie, Juju
+Zygom
+
+TROPICAL, CIVILIZED DESERT
+Common
+Bandit
+Camel, Bactrian
+Camel, Dromedary
+Herd Animal
+Jackal
+Merchant
+Raven, Normal
+Spider, Huge
+Spider, Large
+Vulture, Normal
+Uncommon
+Cat, Domestic
+Centipede, Huge
+Character Party
+Dog, War
+Falcon Small
+Horse
+Lion
+Ogre
+Osquip
+Owl
+Patrol
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Shadow Mastiff
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Wolf
+Rare
+Berserker
+Boar, Wild
+Cattle, Wild
+Dervishes
+Dwarf, Hill
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Flind
+Goblin
+Jackalwere
+Jermlaine
+Killmoulis
+Lammasu
+Lycanthrope, Werewolf
+Pedipalp, Huge
+Pedipalp, Large
+Poltergeist
+Rat, Giant
+Shedu
+Snake, Giant Constrictor
+Toad, Giant
+Troll
+Vapor Rat
+Wolf, Dire
+
+Very Rare
+Barghest
+Bat
+Bugbear
+Bull
+Castle
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Disenchanter
+Dragon, Earth
+Dragon, Gold
+Griffon
+Groaning Spirit
+Grue, Harginn
+Hell Hound
+Hobgoblin
+Hollyphant
+Huecuva
+Jann
+Lammasu, Greater
+Luck Eater
+Lycanthrope, Wereboar
+Lycanthrope, Wererat
+Norker
+Oliphant
+Pedipalp, Giant
+Penanggalan
+Quaggoth
+Rakshasa
+Shade
+Shedu, Greater
+Vampire
+Vortex
+Zombie
+
+TROPICAL, WILDERNESS MOUNTAINS
+Common
+Bat
+Dinosaur, Euparkeria
+Dinosaur, Pteranadon
+Dog, Wild
+Falcon, Small
+Ogre
+Orc
+Pterodactyl, Small
+Raven, Normal
+Skunk
+Small Prehist, Reptiles
+Spider, Large
+Vulture, Normal
+Uncommon
+Bandit
+Bugbear
+Cat, Wild
+Centipede, Huge
+Cockatrice
+Dragon, Copper
+Falcon, Large
+Ghoul
+Giant, Fire
+Giant, Fomorian
+Giant, Hill
+Giant, Stone
+Gnoll
+Goblin
+Griffon
+Herd Animal
+Hobgoblin
+Lion
+Lion, Mountain
+Manticore
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Scorpion, Huge
+Scorpion, Large
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Spider, Huge
+Tiger
+Witherweed
+Wolf
+Rare
+Bat, Mobat
+Bat, Giant
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Giant Boring
+Beetle, Giant Fire
+Bonesnapper
+Caterwaul
+Cattle, Wild
+Caveman
+Character Party
+Chimera
+Cyclopskin
+Dakon
+Dinosaur, Ankisaur
+Dinosaur, Camptosaurus
+Dinosaur, Compsognathus
+Dinosaur, Dilophosaur
+Dinosaur, Giant Pterosaur
+Dinosaur, Iguanadon
+Dinosaur, Pentaceratop
+Dinosaur, Phororhacos
+Dinosaur, Plateosaur
+Dinosaur, Stegosaur
+Dinosaur, Triceratops
+Dragon, Earth
+Dragon, Red
+Dwarf, Hill
+Firedrake
+Firenewt
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant Strider
+Giant, Cloud
+Giant, Storm
+Giant, Verbeeg
+Gorgon
+Gorilla Bear
+Harpy
+Hippogriff
+Horse
+Jermlaine
+Lammasu
+Leucrotta
+Lion, Spotted
+Lizard, Minotaur
+Lycanthrope, Werewolf
+Margoyle
+Minotaur
+Mongrelman
+Moon Dog
+Mule
+Norker
+Ogrillon
+Owl, Giant
+Pedipalp, Huge
+Pedipalp, Large
+Peryton
+Phycomid
+Pyrolisk
+Quaggoth
+Rat
+Rat, Giant
+Raven, Huge
+Rhinoceros
+Roc
+Rock Reptile
+Salamander
+Scorpion, Giant
+Shadow
+Shadow Mastiff
+Shedu
+Shocker
+Skulk
+Snake, Giant Constrictor
+Spectre
+Sphinx, Gyno-
+Spider, Phase
+Su-monster
+Tiger, Sabre-tooth
+Toad, Giant
+Troll
+Troll, Giant
+Tunnel Worm
+Vapor Rat
+Vilstrak
+Volt
+Wasp, Giant
+Whipweed
+Wight
+Wind Walker
+Wolfwere
+Worg
+Wyvern
+Xvart
+Zorbo
+
+
+Very Rare
+Aarakocra
+Achaieria
+Ascomoid
+Barghest
+Basilisk
+Behir
+Berserker
+Black Pudding
+Boalisk
+Boggart
+Boggle
+Brain Mole
+Cave Fisher
+Centipede, Giant
+Coffer Corpse
+Crypt Thing
+Demon, Bar-Lgura
+Demon, Nabassu
+Denzelian
+Deva, Movanic
+Dinosaur, Ankylosaur
+Dinosaur, Ceratosaur
+Dinosaur, Gorgosaur
+Dinosaur, Paleoscincus
+Dinosaur, Tyrannosaurus
+Displacer Beasts
+Doppleganger
+Dragon, Black
+Dragon, Brass
+Dragon, Bronze
+Dragon, Cloud
+Dragon, Gold
+Dragon, Silver
+Dragon Horse
+Dragonne
+Dragonnel
+Elf, Valley
+Ettercap
+Ettin
+Executioner’s Hood
+Flind
+Fly, Giant Horse
+Forlarren
+Formian
+Frost Man
+Galeb Duhr
+Gargoyle
+Gelatinous Cube
+Ghost
+Giant, Mountain
+Gloomwing
+Gnome
+Gorgimera
+Grim
+Grue, Chaggrin
+Grue, Ildriss
+Haunt
+Hell Hound
+Hollyphant
+Hornet, Giant
+Hydra,
+Hydra, Pyro
+Hyenadon
+Khargra
+Ki-rin
+Kobold
+Lammasu, Greater
+Land Lamprey
+Land Urchin
+Lava Children
+Lizard, Fire
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Magmen
+Mantari
+Meazel
+Medusa
+Meenlock
+Minimal, Badger
+Minimal, Carniv. Ape
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, Wild Horse
+Minimal, Lion
+Minimal, Tiger
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Nightmare
+Nilbog
+Obliviax
+Ogre Mage
+Oliphant
+Otyugh
+Pech
+Pedipalp, Giant
+Pegasus
+Quasi-elemental, Lightning
+Quickwood
+Retchplant
+Rothe
+Sandman
+Shade
+Shedu, Greater
+Nymph
+Skunk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Sphinx, Andro-
+Sphinx, Crio-
+Sphinx, Hieraco-
+Spider, Giant
+Stegocentipede
+Storoper
+Sundew, Giant
+Sussurus
+Sylph
+Tenebrous Worm
+Tentamon
+Thessalhydra
+Thoqqua
+Tirapheg
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Toad, Poisonous
+Transposer
+Troll, Giant Two-headed
+Umpleby
+Ustilagor
+Vagabond
+Vampire
+Vargouille
+Vulture, Giant
+Will-0-wisp
+Wolf, Dire
+Wraith
+Xaren
+Xill
+Xorn
+Yellow Musk Creeper
+Zombie
+Zombie, Juju
+Zombie, Yellow Musk
+Zygom
+
+TROPICAL, WILDERNESS HILLS
+Common
+Cattle, Wild
+Dinosaur, Ankisaur
+Dinosaur, Camptosaurus
+Dinosaur, Euparkeria
+Dinosaur, lguanadon
+Dinosaur, Monoclonius
+Dinosaur, Pentaceratops
+Dinosaur, Plateosaur
+Dinosaur, Triceratops
+Dog, Wild
+Dwarf, Hill
+Giant, Hill
+Herd Animal
+Lycanthrope, Werewolf
+Mule
+Ogre
+Pteradactyl, Small
+Raven, Normal
+Skunk
+Small Prehist, Reptiles
+Spider, Large
+Vulture, Normal
+Wolf
+Uncommon
+Bandit
+Basilisk
+Bat
+Cat, Wild
+Centipede, Huge
+Dakon
+Dinosaur, Ankylosaur
+Dinosaur, Ceratosaur
+Dinosaur, Compsognathus
+Dinosaur, Gorgosaur
+Dinosaur, Megalosaur
+Dinosaur, Paleoscincus
+Dinosaur, Tyrannosaurus
+Falcon, Small
+Ghoul
+Giant, Verbeeg
+Gnoll
+Hobgoblin
+Horse
+Kenku
+Lion
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Rat
+Rat, Giant
+Rhinoceros
+Scorpion, Large
+Skunk
+Snake, Constrictor
+Snake, Giant Poisonous
+Spider, Huge
+Tiger
+Witherweed
+
+Rare
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Baboon
+Bat, Giant
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Boar, Warthog
+Boar, Wild
+Camel, Bactrian
+Caveman
+Character Party
+Chimera
+Choke Creeper
+Cyclopskin
+Dinosaur, Dacentrurus
+Dinosaur, Deinonychus
+Dinosaur, Dilophosaur
+Dinosaur, Dimetrodon
+Dinosaur, Kentrosaur
+Dinosaur, Phororhacos
+Dinosaur, Podokesaur
+Dinosaur, Stegosaur
+Dinosaur, Struthoimimus
+Dinosaur, Styracosaur
+Dragon, Copper
+Dragon, Red
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Firedrake
+Firenewt
+Flightless Bird
+Fortress
+Ghast
+Giant, Cloud
+Gnome
+Goblin
+Hyena
+Jackal
+Jermlaine
+Lammasu
+Lion, Mountain
+Lizard, Minotaur
+Mantis, Giant
+Minotaur
+Norker
+Ogrillon
+Oliphant
+Patrol
+Pedipalp, Huge
+Pedipalp, Large
+Peryton
+Purple Worm
+Raven, Huge
+Rock Reptile
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Shedu
+Skulk
+Snake, Giant Constrictor
+Sphinx, Hieraco-
+Su-monster
+Tabaxi
+Tiger, Sabre-tooth
+Toad, Giant
+Troll
+Troll, Giant
+Vapor Rat
+Volt
+Wasp, Giant
+Whipweed
+Wolf, Dire
+Worg
+Xvart
+Harpy
+
+
+Very Rare
+Aarakocra
+Achaieria
+Ape, Carnivorous
+Ascomoid
+Assassin Bug
+Atomie
+Axebeak
+Baku
+Barghest
+Basidirond
+Basilisk, Greater
+Bat, Mobat
+Beetle, Giant Rhino
+Behir
+Berserker
+Boalisk
+Boar, Giant
+Boggle
+Brain Mole
+Brownie
+Bugbear
+Bull
+Castle
+Centipede, Giant
+Cockatrice
+Coffer Corpse
+Cooshee
+Couatl
+Deva, Movanic
+Dinosaur, Giant Rero,
+Dinosaur, Ornitholestes
+Dinosaur, Pteranadon
+Dinosaur, Teratosaur
+Displacer Beasts
+Dragon, Earth
+Dragon, Gold
+Dragon, Green
+Dragonnel
+Elf, Grugach
+Elf, Wood
+Ettercap
+Flind
+Fly, Giant Bluebottle
+Forlarren
+Formian
+Frost Man
+Galeb Duhr
+Ghost
+Giant, Fire
+Giant, Fog
+Giant, Stone
+Gorgimera
+Gorgon
+Gorilla Bear
+Griffon
+Grim
+Groaning Spirit
+Grue, Chaggrin
+Grue, Harginn
+Hangman Tree
+Hell Hound
+Hippogriff
+Hollyphant
+Hornet, Giant
+Huecuva
+Hybsil
+Jackalwere
+Jaguar
+Kamadan
+Ki-rin
+Kobold
+Lammasu, Greater
+Land Lamprey
+Leopard
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Manticore
+Mantrap
+Margoyle
+Medusa
+Minimal, Baboon
+Minimal, Badger
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, Carniv. Ape
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, African Elephant
+Minimal, Asian Elephant
+Minimal, Wild Horse
+Minimal, Hyena
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Mongrelman
+Moon Dog
+Mummy
+Obliviax
+Nymph
+Owl, Giant
+Pedipalp, Giant
+Pegasus
+Pyrolisk
+Quasi-elemental, Lightning
+Ouaggoth
+Ouickwood
+Retchplant
+Shedu, Greater
+Shocker
+Snake, Giant Spitting
+Sphinx, Crio-
+Spider, Giant
+Spider, Phase
+Stegocentipede
+Storoper
+Sundew, Giant
+Tenebrous Worm
+Thoqqua
+Toad, Poisonous
+Vampire
+Vargouille
+Vilstrak
+Vulture, Giant
+Wolfwere
+Xaren
+Xorn
+Zombie
+Zorbo
+Zygom
+
+TROPICAL, WILDERNESS FOREST
+Common
+Baboon
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Boar, Warthog
+Boar, Wild
+Bull
+Centipede, Giant
+Centipede, Huge
+Dinosaur, Ankisaur
+Dinosaur, Camptosaurus
+Dinosaur, Compsognathus
+Dinosaur, Euparkeria
+Dinosaur, Monoclonius
+Dinosaur, Plateosaur
+Dinosaur, Stegosaur
+Dinosaur, Styracosaur
+Dog, Wild
+Elephant, African
+Elephant, Asian
+Falcon, Small
+Flightless Bird
+Herd Animal
+Lycanthrope, Werewolf
+Ogre
+Orc
+Pteradactyl, Small
+Rat
+Raven, Normal
+Rhinoceros
+Skunk
+Small Prehist, Reptiles
+Spider, Large
+Toad, Giant
+Wolf
+Uncommon
+Bandit
+Basilisk
+Bat
+Beetle, Giant Rhino
+Boar, Giant
+Bugbear
+Cat, Wild
+Dakon
+Dinosaur, Dacentrurus
+Dinosaur, Kentrosaur
+Dinosaur, Megalosaur
+Dinosaur, Phororhacos
+Dinosaur, Teratosaur
+Dinosaur, Tyrannosaurus
+Elf, Wood
+Falcon, Large
+Gnoll
+Gorilla Bear
+Hornet, Giant
+Horse
+Jaguar
+Jermlaine
+Kobold
+Leopard
+Lion
+Lion, Mountain
+Manticore
+Ophidian
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat, Giant
+Scorpion, Huge
+Scorpion, Large
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Spider, Giant
+Spider, Huge
+Stirge
+Su-monster
+Sundew, Giant
+Tiger
+Toad, Poisonous
+Troll
+Vulture, Normal
+Whipweed
+Witherweed
+Wyvern
+Xvart
+
+Rare
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Atomie
+Axebeak
+Baku
+Baluchitherium
+Basidirond
+Bee, Giant Honey
+Boalisk
+Brownie
+Buckawn
+Camel, Bactrian
+Carbuncle
+Cattle, Wild
+Caveman
+Character Party
+Choke Creeper
+Cifal
+Cooshee
+Dinosaur, Anatosaur
+Dinosaur, Apatosaur
+Dinosaur, Camarasaur
+Dinosaur, Deinonychus
+Dinosaur, Diplodocus
+Dinosaur, lguanadon
+Dinosaur, Lambeosaur
+Dinosaur, Pentaceratop
+Dinosaur, Triceratops
+Dragon, Green
+Dwarf, Hill
+Elf, Gray
+Ettercap
+Executioner’s Hood
+Fly, Giant Bluebottle
+Fortress
+Gambado
+Giant, Hill
+Goblin
+Grippli
+Harpy
+Hobgoblin
+Hyena
+Jackal
+Jaculi
+Kamadan
+Kech
+Lammasu
+Land Lamprey
+Lycanthrope, Wereboar
+Mantis, Giant
+Medusa
+Minotaur
+Mule
+Obliviax
+Ogrillon
+Oliphant
+Owl, Giant
+Patrol
+Pedipalp, Huge
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Raven, Huge
+Retchplant
+Scorpion, Giant
+Shadow
+Skulk
+Sphinx, Crio-
+Spider, Phase
+Tasloi
+Tenebrous Worm
+Termite, Giant Harvester
+Thessalhydra
+Tick, Giant
+Tiger, Sabre-tooth
+Treant
+Tribesmen
+Vapor Rat
+Volt
+Wasp, Giant
+Wolf, Dire
+Wolfwere
+Worg
+Yellow Musk Creeper
+Zombie, Yellow Musk
+
+
+Very Rare
+Achaierai
+Ape, Carnivorous
+Ape, Gorilla
+Assassin Bug
+Babbler
+Banderlog
+Barghest
+Basilisk, Greater
+Bat, Mobat
+Bat, Giant
+Bee, Giant Bumble-
+Berserker
+Bloodthorn
+Boobrie
+Brain Mole
+Castle
+Catoblepas
+Centipede, Megalo-
+Cockatrice
+Demon, Bar-Lgura
+Deva, Movanic
+Dinosaur, Ankylosaur
+Dinosaur, Brachiosaur
+Dinosaur, Ceratosaur
+Dinosaur, Cetiosaur
+Dinosaur, Giant Rero,
+Dinosaur, Gorgosaur
+Dinosaur, Mamenchisaur
+Dinosaur, Massopondylus
+Dinosaur, Paleoscincus
+Dinosaur, Podokesaur
+Dinosaur, Struthoimimus
+Displacer Beasts
+Dragon, Coiled
+Dragon, Gold
+Dragon, Mist
+Dragon, Red
+Ear Seeker
+Elf, Grugach
+Elf, Valley
+Faerie Dragon
+Flind
+Fly, Giant Horse
+Forester’s Bane
+Forlarren
+Frog, Giant
+Gargoyle
+Ghost
+Giant, Fire
+Giant, Verbeeg
+Gnome
+Gorgon
+Grim
+Groaning Spirit
+Hangman Tree
+Hybsil
+Hydra,
+Jackalwere
+Kenku
+Lammasu, Greater
+Lizard, Giant
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Mandragora
+Mantari
+Mantrap
+Meazel
+Mihstu
+Minimal, Baboon
+Minimal, Badger
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, Carniv. Ape
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, African Elephant
+Minimal, Asian Elephant
+Minimal, Gorilla
+Minimal, Wild Horse
+Minimal, Hyena
+Minimal, Jaguar
+Minimal, Leopard
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Mongrelman
+Moon Dog
+Mummy
+Nonafel
+Norker
+Nymph
+Pedipalp, Giant
+Pedipalp, Large
+Pegasus
+Phoenix
+Pixie
+Pudding, Deadly (Brown)
+Pyrolisk
+Quaggoth
+Ouickling
+Ouickwood
+Oullan
+Scum Creeper
+Shadow Mastiff
+Shedu
+Shedu, Greater
+Shocker
+Skunk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Sphinx, Hieraco-
+Squealer
+Stegocentipede
+Sussurus
+Tabaxi
+Tiger Fly
+Tri-flower Frond
+Troll, Giant
+Twilight Bloom
+Umpleby
+Ustilagor
+Vampire
+Vargouille
+Webbirds
+Yuan Ti
+Zombie
+Zorbo
+Zygom
+
+TROPICAL, WILDERNESS SWAMP
+Common
+Centipede, Giant
+Centipede, Huge
+Crocodile, Normal
+Dinosaur, Anatosaur
+Dinosaur, Apatosaur
+Dinosaur, Camarasaur
+Dinosaur, Diplodocus
+Dinosaur, Euparkeria
+Dinosaur, lguanadon
+Dinosaur, Lambeosaur
+Dinosaur, Plateosaur
+Dinosaur, Styracosaur
+Dog, Wild
+Mule
+Ogre
+Orc
+Pteradactyl, Small
+Rat
+Rat, Giant
+Raven, Normal
+Rhinoceros
+Scorpion, Large
+Skunk
+Small Prehist, Reptiles
+Spider, Huge
+Spider, Large
+Throat Leech
+Toad, Giant
+Vulture, Normal
+Uncommon
+Axebeak
+Basilisk
+Buccaneer (Pirate)
+Cat, Wild
+Cockatrice
+Dinosaur, Ankisaur
+Dinosaur, Brachiosaur
+Dinosaur, Camptosaurus
+Dinosaur, Ceratosaur
+Dinosaur, Cetiosaur
+Dinosaur, Dimetrodon
+Dinosaur, Gorgosaur
+Dinosaur, Mamenchisaur
+Dinosaur, Massopondylus
+Dinosaur, Megalosaur
+Dinosaur, Phororhacos
+Falcon, Small
+Frog, Giant
+Ghoul
+Gnoll
+Herd Animal
+Hippopotamus
+Hobgoblin
+Hornet, Giant
+Hydra,
+Jermlaine
+Land Lamprey
+Leech, Giant
+Leopard
+Lion
+Lizard, Giant
+Meazel
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Spectre
+Pseudo-undead, Vampire
+Pseudo-undead, Wight
+Pseudo-undead, Wraith
+Pudding, Deadly (Brown)
+Scorpion, Giant
+Scorpion, Huge
+Scum Creeper
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Constrictor
+Snake, Giant Poisonous
+Su-monster
+Sundew, Giant
+Toad, Poisonous
+Troll
+Volt
+Whipweed
+Will-0-wisp
+Witherweed
+Wolf
+Wyvern
+Rare
+Assassin Bug
+Baboon
+Bandit
+Basidirond
+Bat
+Beetle, Giant Bombardier
+Beetle, Giant Boring
+Beetle, Giant Fire
+Boalisk
+Boar, Warthog
+Boar, Wild
+Boggart
+Boobrie
+Bullywug
+Bunyip
+Camel, Bactrian
+Carbuncle
+Caterwaul
+Cattle, Wild
+Character Party
+Cifal
+Crab, Giant
+Crane, Giant
+Crystal Ooze
+Dinosaur, Compsognathus
+Dinosaur, Giant Ptero
+Dinosaur, Monoclonius
+Dinosaur, Pentaceratop
+Dinosaur, Stegosaur
+Dinosaur, Struthoimimus
+Dinosaur, Tanystropheus
+Dinosaur, Triceratops
+Dragon, Coiled
+Dragonfly, Giant
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Flightless Bird
+Fly, Giant Bluebottle
+Fortress
+Frog, Poisonous
+Ghast
+Giant, Hill
+Goblin
+Gorilla Bear
+Grippli
+Horse
+Hybsil
+Hyena
+Jackal
+Kamadan
+Leucrotta
+Lizard Man
+Lycanthrope, Werewolf
+Medusa
+Minotaur
+Mongrelman
+Moon Dog
+Muckdweller
+Norker
+Obliviax
+Ogre, Aquatic
+Ophidian
+Owl
+Pedipalp, Huge
+Pedipalp, Large
+Phycomid
+Pyrolisk
+Quaggoth
+Raven, Huge
+Retchplant
+Shadow
+Shadow Mastiff
+Shambling Mound
+Skeleton
+Snake, Giant Spitting
+Spectre
+Thessalhydra
+Tiger
+Tiger Fly
+Tribesmen
+Troll, Giant
+Urchin, Black
+Ustilagor
+Vapor Rat
+Wasp, Giant
+Wolfwere
+Worg
+Xvart
+Zombie
+
+Very Rare
+Achaierai
+Algoid
+Ape, Carnivorous
+Babbler
+Baku
+Barghest
+Basilisk, Greater
+Bat, Giant
+Bee, Giant Bumble-
+Bee, Giant Honey
+Beetle, Giant Rhino
+Berserker
+Boar, Giant
+Brain Mole
+Brownie
+Buffalo
+Bugbear
+Bull
+Centipede, Megalo-
+Coffer Corpse
+Cooshee
+Crabman
+Crayfish, Giant
+Crocodile, Giant
+Death, Crimson
+Demon, Alu-
+Demon, Cambion
+Demon, Nabassu
+Deva, Movanic
+Dinosaur, Ankylosaur
+Dinosaur, Antrodemus
+Dinosaur, Deinonychus
+Dinosaur, Paleoscincus
+Dinosaur, Tyrannosaur
+Displacer Beasts
+Doppleganger
+Dracolisk
+Dragon, Black
+Dragon, Gold
+Dragon, Green
+Dragon, Mist
+Eblis
+Elf, Wood
+Flind
+Fly, Giant Horse
+Forester's Bane
+Frog, Killer
+Froghemoth
+Galltrit
+Gargoyle
+Ghost
+Giant, Fog
+Giant, Verbeeg
+Gloomwing
+Gorgon
+Grim
+Grue, Varrdig
+Hangman Tree
+Haunt
+Hell Hound
+Hollyphant
+Huecuva
+Hydra, Lernaean
+Hydra, Pyro
+Hyenadon
+Jackalwere
+Jaguar
+Kech
+Kelpie
+Kenku
+Kobold
+Lammasu
+Land Urchin
+Lion, Spotted
+Lizard King
+Lycanthrope, Wereboar
+Lycanthrope, Weretiger
+Mandragora
+Mantari
+Manticore
+Mihstu
+Minimal, Baboon
+Minimal, Badger
+Minimal, Warthog Boar
+Minimal, Wild Boar
+Minimal, Buffalo
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, Carniv. Ape
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, African Elephant
+Minimal, Asian Elephant
+Minimal, Gorilla
+Minimal, Hippopotamus
+Minimal, Wild Horse
+Minimal, Hyena
+Minimal, Jaguar
+Minimal, Leopard
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Mud-Man
+Mummy
+Naga, Guardian
+Naga, Spirit
+Night Hag
+Ogre Mage
+Oliphant
+Owl, Giant
+Pedipalp, Giant
+Phantom
+Quickling
+Quickwood
+Qullan
+Shade
+Shedu
+Shedu, Greater
+Skeleton, Animal
+Skulk
+Skunk
+Snake, Giant Amphisbaena
+Son of Kyuss
+Sphinx, Crio-
+Squealer
+Stegocentipede
+Sussurus
+Tenebrous Worm
+Tentamon
+Thork
+Tick, Giant
+Tiger, Sabre-tooth
+Tirapheg
+Transposer
+Treant
+Tri-flower Frond
+Trilloch
+Twilight Bloom
+Umpleby
+Urchin, Green
+Urchin, Red
+Vampire
+Vulture, Giant
+Webbirds
+Wight
+Wolf, Dire
+Wraith
+Zombie, Juju
+Zombie, Monster
+Zygom
+
+TROPICAL, WILDERNESS PLAINS
+Common
+Baboon
+Boar, Wild
+Bull
+Camel, Bactrian
+Cattle, Wild
+Centipede, Giant
+Centipede, Huge
+Dinosaur, Ankisaur
+Dinosaur, Camptosaurus
+Dinosaur, Euparkeria
+Dinosaur, lguanadon
+Dinosaur, Lambeosaur
+Dinosaur, Monoclonius
+Dinosaur, Pentaceratop
+Dinosaur, Stegosaur
+Dinosaur, Styracosaur
+Dinosaur, Triceratops
+Dog, Wild
+Elephant, African
+Elephant, Asian
+Falcon, Small
+Flightless Bird
+Herd Animal
+Hyena
+Jackal
+Mule
+Ogre
+Pteradactyl, Small
+Rat
+Rat, Giant
+Raven, Normal
+Rhinoceros
+Scorpion, Large
+Skunk
+Small Prehist, Reptiles
+Spider, Huge
+Spider, Large
+Toad, Giant
+Vulture, Normal
+Wolf
+Uncommon
+Bandit
+Buffalo
+Bugbear
+Cat, Wild
+Dakon
+Dinosaur, Ankylosaur
+Dinosaur, Antrodemus
+Dinosaur, Dimetrodon
+Dinosaur, Paleoscincus
+Dinosaur, Podokesaur
+Dinosaur, Struthoimimus
+Dinosaur, Teratosaur
+Dinosaur, Tyrannosaur
+Falcon, Large
+Ghoul
+Horse
+Jermlaine
+Kenku
+Lion
+Nomad
+Owl
+Pilgrim
+Pseudo-undead, Ghast
+Pseudo-undead, Ghoul
+Pseudo-undead, Vampire
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Tiger
+Witherweed
+Rare
+Ant Lion, Giant
+Ant, Giant
+Aspis
+Axebeak
+Baluchitherium
+Bat
+Bee, Giant Bumble-
+Bonesnapper
+Camel, Dromedary
+Character Party
+Cheetah
+Dervish
+Dinosaur, Anatosaur
+Dinosaur, Apatosaur
+Dinosaur, Camarasaur
+Dinosaur, Dacentrurus
+Dinosaur, Deinonychus
+Dinosaur, Dilophosaur
+Dinosaur, Diplodocus
+Dinosaur, Kentrosaur
+Dinosaur, Ornitholestes
+Dinosaur, Plateosaur
+Dwarf, Hill
+Fly, Giant Bluebottle
+Fortress
+Ghast
+Giant, Hill
+Goblin
+Hobgoblin
+Hybsil
+Jackalwere
+Lammasu
+Land Lamprey
+Lion, Mountain
+Lion, Spotted
+Lizard, Minotaur
+Lycanthrope, Wereboar
+Lycanthrope, Werewolf
+Moon Dog
+Mummy
+Ogrillon
+Orc
+Patrol
+Pedipalp, Huge
+Pedipalp, Large
+Quaggoth
+Raven, Huge
+Shedu
+Snake, Giant Constrictor
+Thri-kreen
+Tiger Fly
+Tiger, Sabre-tooth
+Troll
+Vapor Rat
+Volt
+Wasp, Giant
+Whipweed
+Wolf, Dire
+Wolfwere
+Wyvern
+Xvart
+
+Very Rare
+Ascomoid
+Assassin Bug
+Atomie
+Barghest
+Basidirond
+Basilisk
+Bat, Giant
+Bee, Giant Honey
+Berserker
+Boalisk
+Brain Mole
+Castle
+Caterwaul
+Centipede, Megalo-
+Cifal
+Cockatrice
+Demon, Alu-
+Demon, Chambion
+Deva, Movanic
+Dinosaur, Brachiosaur
+Dinosaur, Ceratosaur
+Dinosaur, Cetiosaur
+Dinosaur, Giant Ptero,
+Dinosaur, Gorgosaur
+Dinosaur, Mamenchisaur
+Dinosaur, Massopondylus
+Dinosaur, Megalosaur
+Disenchanter
+Displacer Beast
+Dragon, Blue
+Dragon, Brass
+Dragon, Coiled
+Dragon, Earth
+Dragon, Gold
+Dustdigger
+Firetoad
+Flind
+Flumph
+Fly, Giant Horsefly
+Forester's Bane
+Forlarren
+Formian
+Frog, Giant
+Gambado
+Ghost
+Giant, Fire
+Giant, Fog
+Giant, Verbeeg
+Gnoll
+Gorgon
+Grim
+Groaning Spirit
+Grue, Harginn
+Grue, Ildriss
+Harpy
+Hollyphant
+Hornet, Giant
+Huecuva
+Hydra,
+Hydra, Pyro
+Hyenadon
+Kamadan
+Lammasu, Greater
+Land Urchin
+Leopard
+Lizard, Giant
+Lycanthrope, Foxwoman
+Lycanthrope, Weretiger
+Manticore
+Meazel
+Medusa
+Meenlock
+Minimal, Baboon
+Minimal, Badger
+Minimal, Wild Boar
+Minimal, Buffalo
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, Drom, Camel
+Minimal, Carniv. Ape
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, African Elephant
+Minimal, Asian Elephant
+Minimal, Wild Horse
+Minimal, Hyena
+Minimal, Jaguar
+Minimal, Leopard
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Mongrelman
+Nonafel
+Norker
+Oliphant
+Owl, Giant
+Pedipalp, Giant
+Phoenix
+Pudding, Deadly (Brown)
+Pudding, Deadly (Dun)
+Purple Worm
+Pyrolisk
+Ouickwood
+Oullan
+Retchplant
+Sandling
+Sandman
+Scum Creeper
+Shade
+Shedu, Greater
+Shocker
+Skulk
+Snake, Giant Amphisbaena
+Snake, Giant Spitting
+Solifugid, Large
+Sphinx, Andro-
+Sphinx, Gyno-
+Stegocentipede
+Su-monster
+Sundew, Giant
+Sussurus
+Thunderherder
+Toad, Poisonous
+Troll, Giant
+Ustilagor
+Vagabond
+Vampire
+Vargouille
+Vortex
+Vulture, Giant
+Webbirds
+Worg
+Zombie
+Zombie, Juju
+Zorbo
+Zygom
+
+TROPICAL, WILDERNESS DESERT
+Common
+Camel, Bactrian
+Camel, Dromedary
+Dinosaur, Euparkeria
+Dog, Wild
+Herd Animal
+Hyena
+Jackal
+Raven, Normal
+Scorpion, Large
+Small Prehist, Reptile
+Spider, Huge
+Spider, Large
+Vulture, Normal
+Uncommon
+Bandit
+Cat, Wild
+Centipede, Huge
+Dinosaur, Camptosaur
+Dinosaur, Compsognathus
+Dragon, Brass
+Dustdigger
+Falcon, Small
+Flightless Bird
+Fly, Giant Bluebottle
+Horse
+Kenku
+Lion
+Lion, Mountain
+Nomad
+Ogre
+Owl
+Pilgrim
+Pseudo-undead, Vampire
+Rat
+Rhinoceros
+Scorpion, Giant
+Scorpion, Huge
+Shadow Mastiff
+Skunk
+Snake, Constrictor
+Snake, Poisonous
+Snake, Giant Poisonous
+Toad, Poisonous
+Wolf
+Rare
+Ant Lion, Giant
+Aspis
+Baboon
+Bee, Giant Bumble-
+Boar, Wild
+Cattle, Wild
+Character Party
+Cheetah
+Chimera
+Dervishes
+Dinosaur, Ankisaur
+Dinosaur, Deinonychus
+Dinosaur, Dilophosaur
+Dinosaur, Dimetrodon
+Dinosaur, lguanadon
+Dinosaur, Lambeosaur
+Dinosaur, Monoclonius
+Dinosaur, Pentaceratop
+Dinosaur, Phororhacos
+Dinosaur, Stegosaur
+Dinosaur, Styracosaur
+Dinosaur, Triceratops
+Dragon, Blue
+Dwarf, Hill
+Elephant, African
+Elephant, Asian
+Falcon, Large
+Firenewt
+Firetoad
+Flind
+Fly, Giant Horse
+Fortress
+Giant Strider
+Goblin
+Jackalwere
+Jermlaine
+Lammasu
+Lizard, Minotaur
+Lycanthrope, Werewolf
+Moon Dog
+Mummy
+Orc
+Pedipalp, Huge
+Pedipalp, Large
+Pernicon
+Pteradactyl, Small
+Pudding, Deadly (Dun)
+Purple Worm
+Rat, Giant
+Raven, Huge
+Salamander
+Sandling
+Sandman
+Shedu
+Shocker
+Snake, Giant Constrictor
+Solifugid, Large
+Sphinx, Gyno-
+Thri-kreen
+Thunderherder
+Tiger
+Toad, Giant
+Troll
+Vapor Rat
+Whipweed
+Witherweed
+Wolf, Dire
+Wolfwere
+
+Very Rare
+Ascomoid
+Barghest
+Bat
+Berserker
+Boalisk
+Buffalo
+Bugbear
+Bull
+Centipede, Giant
+Cifal
+Cockatrice
+Coffer Corpse
+Crypt Thing
+Dakon
+Death Dog
+Demon, Succubus
+Demon, Vrock (Type I)
+Deva, Movanic
+Dinosaur, Ankylosaur
+Dinosaur, Antrodemus
+Dinosaur, Ceratosaur
+Dinosaur, Dacentrurus
+Dinosaur, Giant Ptero,
+Dinosaur, Gorgosaur
+Dinosaur, Ornitholests
+Dinosaur, Paleoscincus
+Dinosaur, Podokesaur
+Dinosaur, Teratosaur
+Dinosaur, Tyrannosaur
+Disenchanter
+Displacer Beast
+Dragon, Copper
+Dragon, Earth
+Dragon, Gold
+Dune Stalker
+Firebat
+Flumph
+Formian
+Gambado
+Giant, Fire
+Gorgimera
+Gorgon
+Griffon
+Groaning Spirit
+Grue, Harginn
+Harpy
+Hell Hound
+Hobgoblin
+Hollyphant
+Hornet, Giant
+Huecuva
+Jann
+Lamia
+Lammasu, Greater
+Lion, Spotted
+Lycanthrope, Foxwoman
+Lycanthrope, Wereboar
+Manticore
+Medusa
+Meenlock
+Minimal, Baboon
+Minimal, Badger
+Minimal, Wild Boar
+Minimal, Buffalo
+Minimal, Bull
+Minimal, Bactrian Camel
+Minimal, Drom, Camel
+Minimal, War Dog
+Minimal, Wild Dog
+Minimal, African Elephant
+Minimal, Asian Elephant
+Minimal, Wild Horse
+Minimal, Hyena
+Minimal, Leopard
+Minimal, Lion
+Minimal, Rhinoceros
+Minimal, Tiger
+Mongrelman
+Nonafel
+Norker
+Oliphant
+Opinicus
+Owl, Giant
+Pedipalp, Giant
+Pegasus
+Pyrolisk
+Ouaggoth
+Retchplant
+Rock Reptile
+Shade
+Shedu, Greater
+Skulk
+Snake, Giant Spitting
+Solifugid, Giant
+Solifugid, Huge
+Sphinx, Andro-
+Stegocentipede
+Tiger Fly
+Tiger, Sabre-tooth
+Troll, Giant
+Vampire
+Vargouille
+Volt
+Vortex
+Vulture, Giant
+Wind Walker
+Worg
+Wyvern
+Zombie
+Zorbo
