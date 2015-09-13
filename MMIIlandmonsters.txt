@@ -457,6 +457,7 @@ Shadow Mastiff
 Snake, Poisonous
 Squirrel, Normal
 Wolf
+
 Rare
 Berserker
 Boar, Wild
@@ -465,6 +466,7 @@ Dwarf, Hill
 Dwarf, Mountain
 Falcon, Large
 Goblin
+Harpy
 Jermlaine
 Killmoulis
 Lycanthrope, Werewolf
