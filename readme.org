@@ -139,9 +139,7 @@ land/tropical_wilderness_swamp/uncommon:Troll
   #+END_EXAMPLE
 
   and then edit that list, simply deleting monsters you don't like,
-  then
-
-  run filter.pl:
+  then run filter.pl:
 
   #+BEGIN_EXAMPLE
   ./filter.pl likes.txt MMIIlandmonsters.txt >myland.txt 
