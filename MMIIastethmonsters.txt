@@ -1,0 +1,129 @@
+ASTRAL PLANE
+Common
+Cerebral Parasite
+Daemon, Minor
+Demon, Lesser
+Deva, Astral
+Devil, Minor
+Human Traveler
+Invisible Stalker
+Nighthag
+Nightmare
+Slaad. Red.
+Slaad, Blue
+Sladd, Green
+
+Uncommon
+Aerial Servant
+Agathion
+Baku
+Basilisk*
+Cockatrice*
+Diakk
+Dracolisk*
+Githyanki
+Gorgon*
+Medusa*
+Pyrolisk*
+Rakshasa
+Shedu
+Titan
+Rare
+Basilisk, Greater*
+Berbalang
+Daemon, Greater
+Demon, Major
+Devil, Major
+Foo Dog
+Githzerai
+Gorgimera*
+Hollyphant
+Intellect Devourer
+Ki-rin
+Modron, Hierarch
+Moon Dog
+Phoenix
+Planetar
+Slaad. Death
+Sladd, Grey
+
+Very Rare
+Cat Lord
+Daemon, Master
+Demon, Prince or Lord
+Devil, Duke or Arch-
+Dragon, Platinum
+Dragon, Chromatic
+Dragon Horse
+Foo Lion
+Opinicus
+Retriever
+Shedu, Greater
+Slaad, Lord
+Solar
+
+ETHEREAL PLANE
+Common
+Cerebral Parasite
+Deva, Monadic
+Elementals
+Geniekind
+Human Traveler
+Lammasu
+Nightmare
+Uncommon
+Azer
+Basilisk*
+Cockatrice*
+Couatl
+Crysmal
+Daemon, Charona-
+Dracolisk*
+Ghost
+Gorgon*
+Groaning Spirit
+Invisible Stalker
+Ki-rin
+Medusa*
+Xag-ya
+Xeg-yi
+Xorn
+
+Rare
+Aerial Servant
+Agathion
+Baku
+Firebat
+Foo Dog
+Grim
+Hollyphant
+Moon Dog
+Opinicus
+Para-elemental
+Planetar
+Salamander
+Shedu
+Spider, Phase
+Thought Eater
+Wind Walker
+Xaren
+Xill
+
+Very Rare
+Apparition
+Basilisk, Greater*
+Daemon, Charon
+DragonHorse
+Dragon, Chromatic
+Dragon, Platinum
+Foo Lion
+Gorgimera*
+Intellect Devourer
+Lammasu, Greater
+Phoenix
+Pyrolisk*
+Shedu, Greater
+Solar
+Terithran
+Tween
+Vision
