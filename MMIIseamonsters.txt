@@ -1,0 +1,914 @@
+COLD FRESH WATER SURFACE
+Common
+No encounter
+Ice
+Land Encounter
+Merchant
+Uncommon
+Buccaneer (Pirate)
+Falcon, Small
+Ogre, Aquatic
+Otter
+Swan
+Turtle, Giant Snapping
+Rare
+Boggart
+Northern Bear
+Crab, Giant
+Crystal Ooze
+Dragon, Red
+Dragonfish
+Falcon, Large
+Gar, Giant
+Hollyphant
+Island
+Lacedon
+Naga, Water
+Nixie
+Otter, Giant
+Sirine
+Troll, Marine
+Very Rare
+Aarakocra
+Beaver, Giant
+Deva, Movanic
+Dragon Turtle
+Dragon, Gold
+Dragon, Green
+Dragon, Sea
+Dragon, Silver
+Dragon, White
+Eagle
+Eagle, Giant
+Gargoyle
+Ghost Ship
+Giant, Storm
+Greenhag
+Griffon
+Grue, Varrdig
+Hippocampus
+Hippogriff
+Ki-rin
+Kopoacinth
+Lamprey, Normal
+Manticore
+Nereid
+Octopus
+Pegasus
+Pike, Giant
+Ouipper
+Shedu
+Shedu, Greater
+Swanmay
+Troll, Ice
+Verme
+Harpy
+Vodyanoi
+Water Weird
+Whirlpool
+
+COLD FRESHWATER DEPTHS
+Common
+Uncommon
+Kopoacinth
+Lacedon
+Lamprey, Normal
+Naga, Water
+Ogre, Aquatic
+Turtle, Giant Snapping
+Rare
+Crab, Giant
+Crocodile, Normal
+Dragonfish
+Gar, Giant
+Green Slime
+Hippocampus
+Nixie
+octopus
+Otter
+Pike, Giant
+Sirine
+Sunken Ship
+Troll, Marine
+Vodyanoi
+Very Rare
+Beaver, Giant
+Bloodworm
+Dragon Turtle
+Dragon, Sea
+Giant, Storm
+Greenhag
+Morkoth
+Nereid
+Nymph
+Otter, Giant
+Ouipper
+Verme
+Water Weird
+
+COLD SALTWATER SURFACE
+Common
+Merchant
+Shark
+Whale
+Uncommon
+Buccaneer (Pirate)
+Dolphin
+Island
+Sea Lion
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+Will-0-Wisp
+Rare
+Crab, Giant
+Dragon, Red
+Falcon, Small
+Ghost Ship
+Hollyphant
+Lacedon
+Naga, Water
+Narwhal
+Nixie
+Otter
+Shark, Giant
+Squid, Giant
+Whirlpool
+Very Rare
+Aarakocra
+Afanc
+Deva, Movanic
+Dragon Turtle
+Dragon, Celestial
+Dragon, Gold
+Dragon, Green
+Dragon, Sea
+Dragon, Silver
+Dragon, White
+Eagle
+Eagle, Giant
+Eel, Electric Marine
+Elf, Aquatic
+Falcon, Large
+Giant, Storm
+Greenhag
+Griffon
+Grue, Varrdig
+Harpy
+Hippocampus
+Hippogriff
+Ki-rin
+Kopoacinth
+Kraken
+Lamprey, Normal
+Lycanthrope, Seawolf, Greater
+Lycanthrope, Seawolf, Lesser
+Manticore
+Nereid
+Pegasus
+Selkie
+Shedu
+Shedu, Greater
+Sirine
+Titan, Lesser
+Titan, Major
+Verme
+Water Weird
+Wind Walker
+
+COLD SALTWATER DEPTHS
+Common
+Shark
+Whale
+Uncommon
+Dolphin
+Elf, Aquatic
+Kopoacinth
+Lacedon
+Lamprey, Normal
+Naga, Water
+Octopus
+Sea Lion
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+Urchin, Black
+
+Rare
+Crab, Giant
+Eel, Electric Marine
+Ghost Ship
+Hippocampus
+Narwhal
+Nixie
+Shark, Giant
+Squid, Giant
+Urchin, Green
+Urchin, Red
+
+Very Rare
+Afanc
+Dragon Turtle
+Dragon, Sea
+Giant, Storm
+Kraken
+Lycanthrope, Seawolf, Lesser
+Lycanthrope, Seawolf, Greater
+Morkoth
+Nereid
+Nymph
+Otter
+Selkie
+Sirine
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Urchin, Silver
+Urchin, Yellow
+Verme
+Water Weird
+
+TEMPERATE FRESHWATER SURFACE
+Common
+Crocodile, Normal
+Merchant
+Throat Leech
+Uncommon
+Crayfish, Giant
+Dinosaur, Elasmosaur
+Falcon, Small
+Frog, Giant
+Leech, Giant
+Ogre, Aquatic
+Otter
+Spider, Giant Water
+Swan
+Turtle, Giant Snapping
+Beetle, Giant Water
+Boggart
+Buccaneer (Pirate)
+Crab, Giant
+Crane, Giant
+Crystal Ooze
+Dragon, Bronze
+Dragon, Carp
+Dragon, Mist
+Dragon, Red
+Dragon, Spirit
+Dragonfish
+Falcon, Large
+Frog, Poisonous
+Gar, Giant
+Hollyphant
+Island
+Lacedon
+Lizard Man
+Naga, Water
+Nixie
+Otter, Giant
+Sirine
+Troll, Marine
+Very Rare
+Aarakocra
+Algoid
+Beaver, Giant
+Boobrie
+Bunyip
+Catfish, Giant
+Cockatrice
+Deva, Movanic
+Dragon Turtle
+Dragon, Black
+Dragon, Cloud
+Dragon, Gold
+Dragon, Green
+Dragon, Sea
+Dragon, Silver
+Dragon Horse
+Dragonfly, Giant
+Dragonnel
+Eagle
+Eagle, Giant
+Eblis
+Eel, Giant
+Gargoyle
+Ghost Ship
+Giant, Storm
+Greenhag
+Griffon
+Grue, Varrdig
+Harpy
+Hippocampus
+Hippogriff
+Kelpie
+Ki-rin
+Kopoacinth
+Lammasu
+Lammasu, Greater
+Lamprey, Giant
+Lamprey, Normal
+Lizard King
+Manticore
+Muckdweller
+Nereid
+Pegasus
+Pike, Giant
+Pyrolisk
+Ouipper
+Shedu
+Shedu, Greater
+Swanmay
+Tiger Fly
+Verme
+Vodyanoi
+Wasp, Giant
+Water Weird
+Whirlpool
+Octopus
+
+TEMPERATE FRESHW DEPTHS
+Common
+Beetle, Giant Water
+Crocodile, Normal
+Spider, Giant Water
+Throat Leech
+Uncommon
+Crayfish, Giant
+Dinosaur, Elasmosaur
+Kopoacinth
+Lacedon
+Lamprey, Normal
+Leech, Giant
+Naga, Water
+Ogre, Aquatic
+Rare
+Bunyip
+Catfish, Giant
+Crab, Giant
+Dragon, Carp
+Dragon, Spirit
+Dragonfish
+Frog, Giant
+Gar, Giant
+Hippocampus
+Lamprey, Giant
+Lizard Man
+Nixie
+octopus
+Otter
+Pike, Giant
+Sirine
+Sunken Ship
+Troll, Marine
+Vodyanoi
+Very Rare
+Afanc
+Algoid
+Beaver, Giant
+Bloodworm
+Dragon Turtle
+Dragon, Sea
+Eel, Giant
+Frog, Killer
+Giant, Storm
+Greenhag
+Kelpie
+Lizard King
+Morkoth
+Muckdweller
+Mud Man
+Nereid
+Otter, Giant
+Ouipper
+Verme
+Water Weird
+Nymph
+
+TEMPERATE SALTWATER SURFACE
+Common
+Dinosaur, Plesiosaur
+Merchant
+Seaweed, Floating
+Shark
+Whale
+Uncommon
+Buccaneer (Pirate)
+Dinosaur, Elasmosaur
+Dinosaur, Mosasaur
+Dinosaur, Nothosaur
+Dolphin
+Eel, Giant
+Island
+Sea Horse
+Sea Lion
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+WilL-0-Wisp
+Rare
+Crab, Giant
+Crabman
+Crane, Giant
+Dinosaur, Tenodontosaur
+Dragon, Bronze
+Dragon, Mist
+Dragon, Red
+Eye, Floating
+Falcon, Small
+Ghost Ship
+Hollyphant
+Lacedon
+Naga, Water
+Narwhal
+Nixie
+Otter
+Shark, Giant
+Squid, Giant
+Whirlpool
+Very Rare
+Aarakocra
+Afanc
+Algoid
+Deva, Movanic
+Dragon Turtle
+Dragon, Black
+Dragon, Celestial
+Dragon, Cloud
+Dragon, Coiled
+Dragon, Gold
+Dragon, Green
+Dragon, Sea
+Dragon, Silver
+Dragon Horse
+Eagle
+Eagle, Giant
+Eel, Electric Marine
+Elf, Aquatic
+Falcon, Large
+Giant, Storm
+Greenhag
+Griffon
+Grue, Varrdig
+Harpy
+Hippocampus
+Hippogriff
+Kelpie
+Ki-rin
+Kopoacinth
+Kraken
+Lammasu
+Lammasu, Greater
+Lamprey, Giant
+Lamprey, Normal
+Lycanthrope, Seawolf, Greater
+Lycanthrope, Seawolf, Lesser
+Manticore
+Nereid
+octopus
+Pegasus
+Shedu
+Shedu, Greater
+Sirine
+Titan, Lesser
+Titan, Major
+Verme
+Water Weird
+Wind Walker
+
+TEMPERATE SALTWATER DEPTHS
+Common
+Dinosaur, Plesiosaur
+Sea Horse
+Seaweed Bed
+Shark
+Whale
+Uncommon
+Dinosaur, Elasmosaur
+Dinosaur, Mosasaur
+Dinosaur, Nothosaur
+Dolphin
+Eel, Giant
+Elf, Aquatic
+Kopoacinth
+Lacedon
+Lamprey, Normal
+Masher
+Naga, Water
+Sea Lion
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+Urchin, Black
+Rare
+Crab, Giant
+Crabman
+Dinosaur, Tenodontosaur
+Eel, Electric Marine
+Hippocampus
+Lamprey, Giant
+Mottled Worm
+Narwhal
+Nixie
+Octopus
+Shark, Giant
+Squid, Giant
+Sunken Ship
+Urchin, Green
+Urchin, Red
+Very Rare
+Afanc
+Algoid
+Dragon Turtle
+Dragon, Sea
+Eye of the Deep
+Giant, Storm
+Kelpie
+Kraken
+Lycanthrope, Seawolf, Lesser
+Lycanthrope, Seawolf, Greater
+Morkoth
+Nereid
+Nymph
+Otter
+Sirine
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Urchin, Silver
+Urchin, Yellow
+Verme
+Water Weird
+
+TROPICAL FRESHWATER SURFACE
+Common
+Crocodile, Normal
+Dinosaur, Anatosaur
+Dinosaur, Apatosaur
+Dinosaur, Diplodocus
+Dinosaur, Pteranadon
+Merchant
+Throat Leech
+Uncommon
+Buccaneer (Pirate)
+Crayfish, Giant
+Dinosaur, Archelon
+Dinosaur, Brachiosaur
+Dinosaur, Cetiosaur
+Dinosaur, Elasmosaur
+Falcon, Small
+Frog, Giant
+Hippopotamus
+Leech, Giant
+Ogre, Aquatic
+Snake, Constrictor
+Spider, Giant Water
+Turtle, Giant Snapping
+Rare
+Beetle, Giant Water
+Behemoth
+Crane, Giant
+Crystal Ooze
+Dinosaur, Camarasaur
+Dinosaur, Dimetrodon
+Dinosaur, Dinichtys
+Dinosaur, Tanystropheus
+Dragon, Bronze
+Dragon, Carp
+Dragon, Mist
+Dragon, Red
+Dragon, Spirit
+Dragonfish
+Eel, Electric
+Falcon, Large
+Frog, Poisonous
+Gar, Giant
+Hollyphant
+Island
+Lacedon
+Lizard Man
+Merman
+Naga, Water
+Nixie
+Otter, Giant
+Sirine
+Troll, Marine
+Very Rare
+Aarakocra
+Algoid
+Boobrie
+Bunyip
+Catfish, Giant
+Cockatrice
+Couatl
+Deva, Movanic
+Dinosaur, Giant Ptero.
+Dragon Turtle
+Dragon, Black
+Dragon, Blue
+Dragon, Brass
+Dragon, Cloud
+Dragon, Coiled
+Dragon, Copper
+Dragon, Gold
+Dragon, Green
+Dragon, sea
+Dragon, Silver
+Dragon Horse
+Dragonfly, Giant
+Dragonne
+Dragonnel
+Eblis
+Eel, Giant
+Froghemoth
+Gargoyle
+Ghost Ship
+Giant, Storm
+Griffon
+Grue, Varrdig
+Hippocampus
+Hippogriff
+Kelpie
+Ki-rin
+Kopoacinth
+Lammasu
+Lammasu, Greater
+Lamprey, Giant
+Lamprey, Normal
+Lizard King
+Manticore
+Minimal, Hippopotomus
+Muckdweller
+Nereid
+octopus
+Pegasus
+Pyrolisk
+Sea Hag
+Shedu
+Shedu, Greater
+Sphinx, Andro-
+Sphinx, Crio-
+Sphinx, Gyno-
+Thork
+Tiger Fly
+Verme
+Wasp, Giant
+Water Weird
+Whirlpool
+
+
+TROPICAL FRESHWATER DEPTHS
+Common
+Beetle, Giant Water
+Dinosaur, Dinichtys
+Spider, Giant Water
+Throat Leech
+Uncommon
+Crayfish, Giant
+Dinosaur, Archelon
+Dinosaur, Elasmosaur
+Frog, Giant
+Kopocinth
+Lacedon
+Lamprey, Normal
+Leech, Giant
+Merman
+Naga, Water
+Ogre, Aquatic
+Turtle, Giant Snapping
+Rare
+Behemoth
+Bunyip
+Catfish, Giant
+Crab, Giant
+Crocodile, Normal
+Dinosaur, Anatosaur
+Dinosaur, Apatosaur
+Dinosaur, Dimetrodon
+Dinosaur, Diplodocus
+Dinosaur, Tanystropheus
+Dragon, Carp
+Dragon, Spirit
+Dragonfish
+Eel, Electric
+Gar, Giant
+Hippocampus
+Hippopotamus
+Lamprey, Giant
+Lizard Man
+Nixie
+octopus
+Sirine
+Sunken Ship
+Troll, Marine
+Vodyanoi
+Algoid
+Bloodworm
+Dinosaur, Brachiosaur
+Dinosaur, Cetiosaur
+Dragon Turtle
+Dragon, Sea
+Eel, Giant
+Eel, Weed
+Frog, Killer
+Froghemoth
+Giant, Storm
+Kelpie
+Lizard King
+Morkoth
+Muckdweller
+Mud Man
+Nereid
+Nymph
+Otter, Giant
+Sea Hag
+Verme
+Water Weird
+
+TROPICAL SALTWATER SURFACE
+Common
+Crocodile, Giant
+Dinosaur, Plesiosaur
+Dinosaur, Pteranadon
+Merchant
+Seaweed, Floating
+Shark
+Whale
+Uncommon
+Buccaneer (Pirate)
+Dinosaur, Archelon
+Dinosaur, Elasmosaur
+Dinosaur, Mosasaur
+Dinosaur, Nothosaur
+Dolphin
+Eel, Giant
+Island
+Portuguese Man-o-war
+Ray, Manta
+Sea Hag
+Sea Horse
+Sea Lion
+Spider, Giant Marine
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+Will-0-Wisp
+Rare
+Barracuda
+Buccaneer (Pirate)
+Crab, Giant
+Crabman
+Crane, Giant
+Dinosaur, Dinichtys
+Dinosaur, Tenodontosaur
+Dragon, Bronze
+Dragon, Mist
+Dragon, Red
+Falcon, Small
+Ghost Ship
+Hollyphant
+Lacedon
+Merman
+Naga, Water
+Nixie
+Roc
+Sahuagin
+Shark, Giant
+Snake, Giant Sea
+Squid, Giant
+Strangle Weed
+Whirlpool
+Very Rare
+Aarakocra
+Afanc
+Algoid
+Deva, Movanic
+Dinosaur, Giant Ptero.
+Dragon Turtle
+Dragon, Black
+Dragon, Blue
+Dragon, Brass
+Dragon, Celestial
+Dragon, Cloud
+Dragon, Coiled
+Dragon, Copper
+Dragon, Gold
+Dragon, Green
+Dragon, Sea
+Dragon, Silver
+Dragon Horse
+Dragonne
+Eel, Electric Marine
+Elf, Aquatic
+Falcon, Large
+Giant, Storm
+Griffon
+Grue, Varrdig
+Harpy
+Hippocampus
+Hippogriff
+lxitachitl
+Kelpie
+Ki-rin
+Kopoacinth
+Kraken
+Lammasu
+Lammasu, Greater
+Lamprey, Giant
+Lamprey, Normal
+Locathah
+Lycanthrope, Seawolf, Greater
+Lycanthrope, Seawolf, Lesser
+Lycanthrope, Wereshark
+Manticore
+Nereid
+octopus
+Pegasus
+Shedu
+Shedu, Greater
+Sirine
+Sphinx, Andro-
+Sphinx, Crio-
+Sphinx, Gyno-
+Titan, Lesser
+Titan, Major
+Triton
+Verme
+Water Weird
+Wind Walker
+TROPICAL SALTWATER DEPTHS
+Common
+Dinosaur, Dinichtys
+Dinosaur, Plesiosaur
+Ray, Sting
+Sea Horse
+Seaweed Bed
+Shark
+Strangle Weed
+Whale
+Uncommon
+Barracuda
+Dinosaur, Archelon
+Dinosaur, Elasmosaur
+Dinosaur, Mosasaur
+Dinosaur, Nothosaur
+Dolphin
+Eel, Giant
+Elf, Aquatic
+Kopocinth
+Lacedon
+Lamprey, Normal
+Masher
+Merman
+Naga, Water
+Ray, Manta
+Sahuagin
+Sea Hag
+Sea Lion
+Snake, Giant Sea
+Spider, Giant Marine
+Swordfish
+Troll, Marine
+Turtle, Giant Sea
+Urchin, Black
+Rare
+Crab, Giant
+Crabman
+Dinosaur, Tenodontosaur
+Eel, Electric Marine
+Eye, Floating
+Hippocampus
+Lamprey, Giant
+Locathah
+Nixie
+Ray, Pungi
+Shark, Giant
+Squid, Giant
+Sunken Ship
+Triton
+Urchin, Green
+Urchin, Red
+Very Rare
+Afanc
+Algoid
+Crocodile, Giant
+Dragon Turtle
+Dragon, Sea
+Eel, Weed
+Eye of the Deep
+Giant, Storm
+lxitachitl
+Kelpie
+Kraken
+Lycanthrope, Seawolf, Greater
+Lycanthrope, Seawolf, Lesser
+Morkoth
+Nereid
+Nymph
+Sirine
+Titan, Elder
+Titan, Lesser
+Titan, Major
+Urchin, Silver
+Urchin, Yellow
+Verme
+Water Weird
