@@ -3112,7 +3112,7 @@ Zorbo
 Vegepygmy
 Zygom
 
-TEMPERATE, WILDERNES SWAMP
+TEMPERATE, WILDERNESS SWAMP
 Common
 Centipede, Giant
 Centipede, Huge
