@@ -84,7 +84,7 @@ Gar, Giant
 Green Slime
 Hippocampus
 Nixie
-octopus
+Octopus
 Otter
 Pike, Giant
 Sirine
@@ -355,7 +355,7 @@ Hippocampus
 Lamprey, Giant
 Lizard Man
 Nixie
-octopus
+Octopus
 Otter
 Pike, Giant
 Sirine
@@ -465,7 +465,7 @@ Lycanthrope, Seawolf, Greater
 Lycanthrope, Seawolf, Lesser
 Manticore
 Nereid
-octopus
+Octopus
 Pegasus
 Shedu
 Shedu, Greater
@@ -640,7 +640,7 @@ Manticore
 Minimal, Hippopotomus
 Muckdweller
 Nereid
-octopus
+Octopus
 Pegasus
 Pyrolisk
 Sea Hag
@@ -697,11 +697,12 @@ Hippopotamus
 Lamprey, Giant
 Lizard Man
 Nixie
-octopus
+Octopus
 Sirine
 Sunken Ship
 Troll, Marine
 Vodyanoi
+Very Rare
 Algoid
 Bloodworm
 Dinosaur, Brachiosaur
@@ -822,7 +823,7 @@ Lycanthrope, Seawolf, Lesser
 Lycanthrope, Wereshark
 Manticore
 Nereid
-octopus
+Octopus
 Pegasus
 Shedu
 Shedu, Greater
