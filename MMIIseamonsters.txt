@@ -1,4 +1,4 @@
-COLD FRESH WATER SURFACE
+COLD FRESHWATER SURFACE
 Common
 No encounter
 Ice
@@ -327,7 +327,7 @@ Water Weird
 Whirlpool
 Octopus
 
-TEMPERATE FRESHW DEPTHS
+TEMPERATE FRESHWATER DEPTHS
 Common
 Beetle, Giant Water
 Crocodile, Normal
