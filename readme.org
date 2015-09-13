@@ -1,0 +1,155 @@
+* Making the database
+  A directory of all MM, FF, and MMII monsters and where they are found
+  by frequency, based on terrain.
+
+  The core is a database file of monsters (MMIIlandmonsters.txt) which is
+  fed into a program (parse.pl) along with a type for the database (this
+  can be anything but the current data file only contains land
+  encounters so I usually call it "land"). For example:
+
+  #+BEGIN_EXAMPLE
+  ./parse.pl <MMIIlandmonsters.txt land
+  #+END_EXAMPLE
+
+  Parse.pl then produces a database in the form of a directory structure
+  such that the monsters which are common in tropical civilized forests
+  are found in
+
+  #+BEGIN_EXAMPLE
+  land/tropical_civilized_forest/common
+  #+END_EXAMPLE
+
+  Parse.pl deletes any existing frequency files (but not directories)
+  when it runs.
+
+* Reading the database
+** Where do you find monster X?
+  To, for example, find where trolls live and their
+  frequency in each terrain:
+
+  #+BEGIN_EXAMPLE
+  grep -rHi "^troll$" *
+  #+END_EXAMPLE
+
+  Which returns a list like this:
+
+  #+BEGIN_EXAMPLE
+  cold_civilized_desert/rare:Troll
+  cold_civilized_forest/uncommon:Troll
+  cold_civilized_hills/rare:Troll
+  cold_civilized_mountains/rare:Troll
+  cold_civilized_plains/rare:Troll
+  cold_civilized_swamp/uncommon:Troll
+  cold_wilderness_desert/rare:Troll
+  cold_wilderness_forest/uncommon:Troll
+  cold_wilderness_hills/rare:Troll
+  cold_wilderness_mountains/rare:Troll
+  cold_wilderness_plains/rare:Troll
+  cold_wilderness_swamps/uncommon:Troll
+  temperate_civilized_desert/rare:Troll
+  temperate_civilized_forest/uncommon:Troll
+  temperate_civilized_hills/rare:Troll
+  temperate_civilized_mountains/rare:Troll
+  temperate_civilized_plains/rare:Troll
+  temperate_civilized_swamp/uncommon:Troll
+  temperate_wilderness_desert/rare:Troll
+  temperate_wilderness_forest/uncommon:Troll
+  temperate_wilderness_hills/rare:Troll
+  temperate_wilderness_plains/rare:Troll
+  temperate_wildernes_swamp/uncommon:Troll
+  tropical_civilized_desert/rare:Troll
+  tropical_civilized_forest/uncommon:Troll
+  tropical_civilized_hills/rare:Troll
+  tropical_civilized_mountains/rare:Troll
+  tropical_civilized_plains/rare:Troll
+  tropical_civilized_swamp/uncommon:Troll
+  tropical_wilderness_desert/rare:Troll
+  tropical_wilderness_forest/uncommon:Troll
+  tropical_wilderness_hills/rare:Troll
+  tropical_wilderness_mountains/rare:Troll
+  tropical_wilderness_plains/rare:Troll
+  tropical_wilderness_swamp/uncommon:Troll
+  #+END_EXAMPLE
+
+** Pick a random monster of a certain frequency
+   If you cd into a specific terrain then you should be able to do:
+
+   #+BEGIN_EXAMPLE
+   sort -R common |head -1
+   #+END_EXAMPLE
+
+   and get something like:
+
+   #+BEGIN_EXAMPLE
+   Dinosaur, Triceratops
+   #+END_EXAMPLE
+
+   or, for that matter
+  
+   #+BEGIN_EXAMPLE
+   sort -R common |head -10
+   #+END_EXAMPLE
+
+   to get:
+
+   #+BEGIN_EXAMPLE
+   Skunk
+   Rat, Giant
+   Jackal
+   Dinosaur, Monoclonius
+   Dinosaur, Styracosaur
+   Dinosaur, lguanadon
+   Wolf
+   Toad, Giant
+   Rhinoceros
+   Falcon, Small
+   #+END_EXAMPLE
+
+** monster overview lists
+   You can also do 
+
+   #+BEGIN_EXAMPLE
+   cat temperate*/*|sort|uniq -c|sort -n|less
+   #+END_EXAMPLE
+
+   to, in this case, get an ordered list with counts for how often
+   each monster appears in a subset of terrains (except it doesn't
+   list those that don't appear at all).
+
+* Customising the database
+  We all have monsters we really can't stand, as well as our own
+  invented ones or ones found in weird JG material or magazines.
+
+  Adding a monster is as simple as adding it to the master list for
+  the correct climates and frequencies and re-running parse.pl
+
+  Removing a monster is harder as it has to be removed from all the
+  occurances, which is much more of a pain.
+
+  I've added a program "filter.pl" which takes a master list of
+  "acceptable" monsters and a raw data file such as
+  MMIIlandmonsters.txt and spits out, on STDOUT, a new version of that
+  monster list which only includes the acceptable ones.
+
+  The best way to proceed, I think, is to create a list of all
+  monsters using 
+
+  #+BEGIN_EXAMPLE
+  sort MMIIlandmonsters.txt |uniq >likes.txt
+  #+END_EXAMPLE
+
+  and then edit that list, simply deleting monsters you don't like,
+  then
+
+  run filter.pl:
+
+  #+BEGIN_EXAMPLE
+  ./filter.pl likes.txt MMIIlandmonsters.txt >myland.txt 
+  #+END_EXAMPLE
+
+  and finally, rerun parse.pl on myland.txt to produce a new version
+  of the land encounters database:
+
+  #+BEGIN_EXAMPLE
+  ./parse.pl <myland.txt land
+  #+END_EXAMPLE
