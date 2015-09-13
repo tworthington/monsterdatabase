@@ -1959,7 +1959,7 @@ Toad, Giant
 Vulture, Normal
 Uncommon
 Basilisk
-Buccaner (Pirate)
+Buccaneer (Pirate)
 Cat, Domestic
 Character Party
 Dog, War
