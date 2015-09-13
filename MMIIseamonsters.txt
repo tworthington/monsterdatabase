@@ -244,6 +244,7 @@ Otter
 Spider, Giant Water
 Swan
 Turtle, Giant Snapping
+Rare
 Beetle, Giant Water
 Boggart
 Buccaneer (Pirate)
