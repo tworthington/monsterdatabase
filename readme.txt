@@ -1,12 +1,12 @@
 A directory of all MM, FF, and MMII monsters and where they are found
 by frequency, based on terrain.
 
-The core is a database file of monsters (MMIIMonsters.txt) which is
+The core is a database file of monsters (MMIIlandmonsters.txt) which is
 fed into a program (parse.pl) along with a type for the database (this
 can be anything but the current data file only contains land
 encounters so I usually call it "land"). For example:
 
-./parse.pl <MMIIMonsters.txt land
+./parse.pl <MMIIlandmonsters.txt land
 
 Parse.pl then produces a database in the form of a directory structure
 such that the monsters which are common in tropical civilized forests
