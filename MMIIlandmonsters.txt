@@ -2813,7 +2813,7 @@ Vampire
 Vargouille
 Vilstrak
 Vulture, Giant
-Wolf-in-Sheep's Clothing
+Wolf-in-Sheep's-Clothing
 Wolfwere
 Xaren
 Xorn
