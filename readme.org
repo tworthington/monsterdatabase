@@ -105,6 +105,15 @@ land/tropical_wilderness_swamp/uncommon:Troll
    Falcon, Small
    #+END_EXAMPLE
 
+** Pick a random encounter for a terrain
+   The program encounter.pl takes a terrain and returns an encounter
+   using the weightings from the MMII (e.g., very rare is 3%, not the
+   4% of the MM)
+     #+BEGIN_EXAMPLE
+     ./encounter.pl land/temperate_wilderness_forest/
+
+     Dog, Wild
+     #+END_EXAMPLE
 ** Monster overview lists
    You can also do 
 
