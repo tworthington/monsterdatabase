@@ -695,6 +695,7 @@ Naga, Spirit
 Night Hag
 Nightmare
 Nilbog
+Nymph
 Obliviax
 Ogre Mage
 Oliphant
@@ -712,6 +713,7 @@ Skunk
 Spriggan
 Squirrel, Carniv. Flying
 Storoper
+Sylph
 Taer
 Tenebrous Worm
 Tirapheg
