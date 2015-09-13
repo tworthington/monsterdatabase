@@ -105,7 +105,7 @@ land/tropical_wilderness_swamp/uncommon:Troll
    Falcon, Small
    #+END_EXAMPLE
 
-** monster overview lists
+** Monster overview lists
    You can also do 
 
    #+BEGIN_EXAMPLE
