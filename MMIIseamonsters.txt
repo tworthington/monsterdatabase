@@ -1,6 +1,5 @@
 COLD FRESHWATER SURFACE
 Common
-No encounter
 Ice
 Land Encounter
 Merchant

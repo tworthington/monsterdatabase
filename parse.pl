@@ -10,6 +10,7 @@ if(!-d $type)
 
 $terrain='';
 $freq='';
+$count=-1;
 while(<>)
 {
     chomp;
@@ -29,18 +30,30 @@ while(<>)
         }
         elsif(/(common|uncommon|rare|very rare)/i)
         {
+            if($count==0)
+            {
+                print OUTP "No encounter\n";
+            }
+
             close OUTP if($freq);
             $freq=lc $1;
             print "found $freq\n";
             $filename="$type/$terrain/$freq";
             print "$filename\n";
             open(OUTP, ">$filename") or die("No openy $filename\n");
+            $count=0;
         }
         else
         {
+            $count++;
             print OUTP "$_\n";
         }
     }
 }
 
-    close OUTP;
+if($count==0)
+{
+    print OUTP "No encounter\n";
+}
+
+close OUTP;
