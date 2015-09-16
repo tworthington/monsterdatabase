@@ -520,7 +520,7 @@ Mammoth
 Ogre
 Orc
 Raven, Normal
-Rhinocerous, Wooly
+Rhinocerous, Woolly
 Uncommon
 Bandit
 Bear, Cave
@@ -750,7 +750,7 @@ Mule
 Ogre
 Orc
 Raven, Normal
-Rhinocerous, Wooly
+Rhinocerous, Woolly
 Squirrel, Normal
 Wolf
 Uncommon
@@ -1139,7 +1139,7 @@ Pseudo-undead, Spectre
 Pseudo-undead, Vampire
 Pseudo-undead, Wight
 Pseudo-undead, Wraith
-Rhinocerous, Wooly
+Rhinocerous, Woolly
 Scorpion, Giant
 Scorpion, Huge
 Snake, Poisonous
