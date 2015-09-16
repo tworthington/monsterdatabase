@@ -2295,7 +2295,7 @@ Cockatrice
 Falcon, Large
 Ghoul
 Giant, Fire
-Giant, Fomorian
+Giant, Formorian
 Giant, Hill
 Giant, Stone
 Gnoll
