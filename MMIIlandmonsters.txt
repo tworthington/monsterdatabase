@@ -33,7 +33,7 @@ Dragon, Earth
 Dwarf, Hill
 Ghast
 Horse
-Jermaline
+Jermlaine
 Killmoulis
 Lycanthrope, Werebear
 Lycanthrope, Werewolf
@@ -1503,7 +1503,7 @@ Fly, Giant Horse
 Fortress
 Goblin
 Hoar Fox
-Jermaline
+Jermlaine
 Lycanthrope, Werewolf
 Mastodon
 Moon Dog
@@ -3698,7 +3698,7 @@ Fly, Giant Horse
 Fortress
 Goblin
 Jackalwere
-Jermaline
+Jermlaine
 Lammasu
 Lycanthrope, Werewolf
 Mastodon
