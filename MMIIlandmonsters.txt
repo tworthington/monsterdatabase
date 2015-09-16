@@ -1716,7 +1716,7 @@ Cat, Domestic
 Cattle, Wild
 Dwarf, Hill
 Herd Animal
-Lycathrope, Werewolf
+Lycanthrope, Werewolf
 Merchant
 Mule
 Ogre
@@ -2123,7 +2123,7 @@ Jackalwere
 Lammasu
 Luck Eater
 Lycanthrope, Wereboar
-Lycathrope, Werewolf
+Lycanthrope, Werewolf
 Ogrillon
 Pedipalp, Huge
 Pedipalp, Large
