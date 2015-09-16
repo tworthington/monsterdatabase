@@ -21,17 +21,28 @@ if($dmgflag && $terrain=~/land/)
     {
         if(int(rand(20)+1)<2)
         {
-            print "Stronghold:\t";
-            print pickone(100,(10,'Small shell keep (small)',
-                               25,'Tower (small)',
-                               35,'Moat house or friary (small)',
-                               45,'Large shell keep (medium)',
-                               65,'Small walled castle with keep (medium)',
-                               80,'Medium walled castle with keep (medium)',
-                               88,'Concentric castle (large)',
-                               95,'Large walled castle with keep (large)',
-                               100,'Fortress complex (large)')
-                );
+            if(rand(100)< 3) ##Ruins instead
+            {
+                print "Ruins:\t";
+                print pickone(100,(30,'Village',
+                                   60,'City',
+                                   85,'Shrine',
+                                   100,'Tomb'));
+            }
+            else
+            {
+                print "Stronghold:\t";
+                print pickone(100,(10,'Small shell keep (small)',
+                                   25,'Tower (small)',
+                                   35,'Moat house or friary (small)',
+                                   45,'Large shell keep (medium)',
+                                   65,'Small walled castle with keep (medium)',
+                                   80,'Medium walled castle with keep (medium)',
+                                   88,'Concentric castle (large)',
+                                   95,'Large walled castle with keep (large)',
+                                   100,'Fortress complex (large)')
+                    );
+            }
             print "\n";
             exit;
         }
