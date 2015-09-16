@@ -3321,7 +3321,7 @@ Haunt
 Hell Hound
 Hollyphant
 Huecuva
-Hydra, Pryo-
+Hydra, Pyro-
 Jackalwere
 Kech
 Kelpie
@@ -4710,7 +4710,7 @@ Hell Hound
 Hollyphant
 Hornet, Giant
 Hydra
-Hydra, Pyro
+Hydra, Pyro-
 Hyenadon
 Khargra
 Ki-rin
@@ -5628,7 +5628,7 @@ Hell Hound
 Hollyphant
 Huecuva
 Hydra, Lernaean
-Hydra, Pyro
+Hydra, Pyro-
 Hyenadon
 Jackalwere
 Jaguar
@@ -5914,7 +5914,7 @@ Hollyphant
 Hornet, Giant
 Huecuva
 Hydra
-Hydra, Pyro
+Hydra, Pyro-
 Hyenadon
 Kamadan
 Lammasu, Greater
