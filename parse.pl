@@ -18,6 +18,7 @@ while(<>)
     {
         if(! /[^A-Z ,]/) #Change terrain
         {
+            %seen=();
             s/\s+/_/g;
             s/,//g;
             $_=lc;
@@ -45,6 +46,8 @@ while(<>)
         }
         else
         {
+            die("$_ already seen in $terrain\n") if($seen{$_});
+            $seen{$_}=1;
             $count++;
             print OUTP "$_\n";
         }
