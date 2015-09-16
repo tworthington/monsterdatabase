@@ -9,10 +9,7 @@ open(INP,"<$master") or die("Can't open master file $master to read\n");
 while(<INP>)
 {
     s/^\s+|\s+$//g;
-    if($_ &&
-       ((!/[^A-Z ,]/) || 
-        /(common|uncommon|rare|very rare)/i)
-        )
+    if($_)
     {
         $allowed{$_}=1;
     }
@@ -27,9 +24,7 @@ while(<INP>)
     s/^\s+|\s+$//g;
     if($_)
     {
-        if((!/[^A-Z ,]/) || 
-           /(common|uncommon|rare|very rare)/i ||
-           $allowed{$_}==1 ) 
+        if($allowed{$_}==1) 
         {
             print "$_\n";
         }
