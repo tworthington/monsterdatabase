@@ -1047,7 +1047,7 @@ Ear Seeker
 Elf, Grugach
 Elf, Valley
 Faerie Dragon
-Fly, Horse
+Fly, Giant Horse
 Forlarren
 Gargoyle
 Ghost
@@ -2455,7 +2455,7 @@ Ettin
 Executioner's Hood
 Firefriend
 Flind
-Fly, Giant Horsefly
+Fly, Giant Horse
 Forlarren
 Galeb Duhr
 Gargoyle
@@ -3307,7 +3307,7 @@ Eblis
 Elf, Wood
 Firefriend
 Flind
-Fly, Giant Horsefly
+Fly, Giant Horse
 Forester's Bane
 Galltrit
 Gargoyle
@@ -5902,7 +5902,7 @@ Dustdigger
 Firetoad
 Flind
 Flumph
-Fly, Giant Horsefly
+Fly, Giant Horse
 Forester's Bane
 Forlarren
 Formian
