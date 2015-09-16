@@ -4767,7 +4767,7 @@ Sundew, Giant
 Sussurus
 Sylph
 Tenebrous Worm
-Tentamon
+Tentamort
 Thessalhydra
 Thoqqua
 Tirapheg
@@ -5692,7 +5692,7 @@ Squealer
 Stegocentipede
 Sussurus
 Tenebrous Worm
-Tentamon
+Tentamort
 Thork
 Tick, Giant
 Tiger, Sabre-tooth
