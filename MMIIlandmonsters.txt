@@ -2254,7 +2254,7 @@ Groaning Spirit
 Grue, Harginn
 Hell Hound
 Hobgoblin
-Holyphant
+Hollyphant
 Huecuva
 Lammasu, Greater
 Luck Eater
@@ -3566,7 +3566,7 @@ Grim
 Groaning Spirit
 Grue, Harginn
 Grue, Ildriss
-Holyphant
+Hollyphant
 Hornet, Giant
 Huecuva
 Hydra,
