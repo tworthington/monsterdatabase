@@ -755,7 +755,6 @@ Turtle, Giant Sea
 Will-0-Wisp
 Rare
 Barracuda
-Buccaneer (Pirate)
 Crab, Giant
 Crabman
 Crane, Giant
