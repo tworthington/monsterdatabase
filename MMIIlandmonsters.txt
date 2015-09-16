@@ -5812,7 +5812,7 @@ Bonesnapper
 Camel, Dromedary
 Character Party
 Cheetah
-Dervish
+Dervishes
 Dinosaur, Anatosaur
 Dinosaur, Apatosaur
 Dinosaur, Camarasaur
