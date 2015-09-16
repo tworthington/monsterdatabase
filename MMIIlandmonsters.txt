@@ -252,7 +252,7 @@ Groaning Spirit
 Lycanthrope, Wererat
 Norker
 Poltergeist
-Ouaggoth
+Quaggoth
 Revenant
 Shadow Demon
 Shadow Mastiff
@@ -310,7 +310,7 @@ Norker
 Obliviax
 Owl
 Penanggalan
-Ouaggoth
+Quaggoth
 Shadow
 Shadow Mastiff
 Skeleton
@@ -600,7 +600,7 @@ Ogrillon
 Owl, Giant
 Peryton
 Pudding, White
-Ouaggoth
+Quaggoth
 Ram, Giant
 Rat
 Rat, Giant
@@ -1089,7 +1089,7 @@ Nymph
 Pegasus
 Phoenix
 Pixie
-Ouaggoth
+Quaggoth
 Quickling
 Quickwood
 Raven, Giant
@@ -3079,7 +3079,7 @@ Pseudo Dragon
 Pudding, Deadly (Brown)
 Pyrolisk
 Quaggoth
-Ouickling
+Quickling
 Quickwood
 Qullan
 Raven, Giant
@@ -3237,7 +3237,7 @@ Pedipalp, Large
 Phycomid
 Porcupine, Giant
 Pyrolisk
-Ouaggoth
+Quaggoth
 Raven, Huge
 Screaming Devilkin
 Shadow
@@ -3361,9 +3361,9 @@ Ogre Mage
 Oliphant
 Owl, Giant
 Phantom
-Ouickling
+Quickling
 Quickwood
-Oullan
+Qullan
 Raven, Giant
 Shade
 Shedu
@@ -3601,7 +3601,7 @@ Porcupine, Giant
 Pudding, Deadly (Brown)
 Purple Worm
 Pyrolisk
-Ouickwood
+Quickwood
 Qullan
 Sandling
 Sandman
@@ -3796,7 +3796,7 @@ Opinicus
 Owl, Giant
 Pegasus
 Pyrolisk
-Ouaggoth
+Quaggoth
 Ram
 Rock Reptile
 Screaming Devilkin
@@ -5048,8 +5048,8 @@ Pedipalp, Giant
 Pegasus
 Pyrolisk
 Quasi-elemental, Lightning
-Ouaggoth
-Ouickwood
+Quaggoth
+Quickwood
 Retchplant
 Shedu, Greater
 Shocker
@@ -5354,9 +5354,9 @@ Pixie
 Pudding, Deadly (Brown)
 Pyrolisk
 Quaggoth
-Ouickling
-Ouickwood
-Oullan
+Quickling
+Quickwood
+Qullan
 Scum Creeper
 Shadow Mastiff
 Shedu
@@ -5957,8 +5957,8 @@ Pudding, Deadly (Brown)
 Pudding, Deadly (Dun)
 Purple Worm
 Pyrolisk
-Ouickwood
-Oullan
+Quickwood
+Qullan
 Retchplant
 Sandling
 Sandman
@@ -6195,7 +6195,7 @@ Owl, Giant
 Pedipalp, Giant
 Pegasus
 Pyrolisk
-Ouaggoth
+Quaggoth
 Retchplant
 Rock Reptile
 Shade

@@ -55,7 +55,7 @@ Nereid
 Octopus
 Pegasus
 Pike, Giant
-Ouipper
+Quipper
 Shedu
 Shedu, Greater
 Swanmay
@@ -101,7 +101,7 @@ Morkoth
 Nereid
 Nymph
 Otter, Giant
-Ouipper
+Quipper
 Verme
 Water Weird
 
@@ -314,7 +314,7 @@ Nereid
 Pegasus
 Pike, Giant
 Pyrolisk
-Ouipper
+Quipper
 Shedu
 Shedu, Greater
 Swanmay
@@ -379,7 +379,7 @@ Muckdweller
 Mud-Man
 Nereid
 Otter, Giant
-Ouipper
+Quipper
 Verme
 Water Weird
 Nymph
