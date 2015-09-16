@@ -4813,7 +4813,7 @@ Herd Animal
 Lycanthrope, Werewolf
 Mule
 Ogre
-Pteradactyl, Small
+Pterodactyl, Small
 Raven, Normal
 Skunk
 Small Prehist, Reptiles
@@ -5102,7 +5102,7 @@ Herd Animal
 Lycanthrope, Werewolf
 Ogre
 Orc
-Pteradactyl, Small
+Pterodactyl, Small
 Rat
 Raven, Normal
 Rhinoceros
@@ -5401,7 +5401,7 @@ Dog, Wild
 Mule
 Ogre
 Orc
-Pteradactyl, Small
+Pterodactyl, Small
 Rat
 Rat, Giant
 Raven, Normal
@@ -5744,7 +5744,7 @@ Hyena
 Jackal
 Mule
 Ogre
-Pteradactyl, Small
+Pterodactyl, Small
 Rat
 Rat, Giant
 Raven, Normal
@@ -6084,7 +6084,7 @@ Orc
 Pedipalp, Huge
 Pedipalp, Large
 Pernicon
-Pteradactyl, Small
+Pterodactyl, Small
 Pudding, Deadly (Dun)
 Purple Worm
 Rat, Giant
