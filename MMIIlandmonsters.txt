@@ -599,7 +599,7 @@ Norker
 Ogrillon
 Owl, Giant
 Peryton
-Pudding, White
+Pudding, Deadly (White)
 Quaggoth
 Ram, Giant
 Rat
@@ -1008,7 +1008,7 @@ Owl, Giant
 Patrol
 Pseudo-undead, Ghast
 Pseudo-undead, Ghoul
-Pudding, White
+Pudding, Deadly (White)
 Raven, Huge
 Scorpion, Giant
 Screaming Devilkin
@@ -1185,7 +1185,7 @@ Obliviax
 Ogre, Aquatic
 Owl
 Porcupine, Giant
-Pudding, White
+Pudding, Deadly (White)
 Quaggoth
 Raven, Huge
 Screaming Devilkin
@@ -1369,7 +1369,7 @@ Mummy
 Ogrillon
 Orc
 Patrol
-Pudding, White
+Pudding, Deadly (White)
 Quaggoth
 Raven, Giant
 Raven, Huge
@@ -1509,7 +1509,7 @@ Mastodon
 Moon Dog
 Mummy
 Orc
-Pudding, White
+Pudding, Deadly (White)
 Purple Worm
 Rat, Giant
 Raven, Giant
