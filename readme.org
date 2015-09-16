@@ -31,8 +31,7 @@
   land/tropical_civilized_forest/common
   #+END_EXAMPLE
 
-  Parse.pl deletes any existing frequency files (but not directories)
-  when it runs.
+  Parse.pl deletes the contents of existing frequency files when it runs.
 
 * Reading the database
 ** Where do you find monster X?
