@@ -636,7 +636,7 @@ Lamprey, Giant
 Lamprey, Normal
 Lizard King
 Manticore
-Minimal, Hippopotomus
+Minimal, Hippopotamus
 Muckdweller
 Nereid
 Octopus
