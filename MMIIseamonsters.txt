@@ -376,7 +376,7 @@ Kelpie
 Lizard King
 Morkoth
 Muckdweller
-Mud Man
+Mud-Man
 Nereid
 Otter, Giant
 Ouipper
@@ -717,7 +717,7 @@ Kelpie
 Lizard King
 Morkoth
 Muckdweller
-Mud Man
+Mud-Man
 Nereid
 Nymph
 Otter, Giant
