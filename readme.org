@@ -1,7 +1,19 @@
 * Making the database
+** Data
   A directory of all MM, FF, and MMII monsters and where they are found
-  by frequency, based on terrain.
+  by frequency, based on terrain as listed in the back of MMII.
 
+  Note that this is substantially different from the charts in the
+  back of the DMG, not just because of the different monsters, but
+  because there is a smaller list of terrains (i.e., MMII does not
+  list scrub or rough; marsh is renamed swamp).
+
+  In addition, there are several Conditions missing: artic and
+  sub-artic are combined into "cold", Faerie and Sylvan is missing, as
+  are "Pleistocene" and "Age of Dinosaurs" both of which seem to have
+  been rolled into parts of "tropical".
+
+** Setup
   The core is a database file of monsters (MMIIlandmonsters.txt) which is
   fed into a program (parse.pl) along with a type for the database (this
   can be anything but the current data file only contains land

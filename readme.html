@@ -146,27 +146,58 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">1. Making the database</a></li>
-<li><a href="#orgheadline6">2. Reading the database</a>
+<li><a href="#orgheadline3">1. Making the database</a>
 <ul>
-<li><a href="#orgheadline2">2.1. Where do you find monster X?</a></li>
-<li><a href="#orgheadline3">2.2. Pick a random monster of a certain frequency</a></li>
-<li><a href="#orgheadline4">2.3. Pick a random encounter for a terrain</a></li>
-<li><a href="#orgheadline5">2.4. Monster overview lists</a></li>
+<li><a href="#orgheadline1">1.1. Data</a></li>
+<li><a href="#orgheadline2">1.2. Setup</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline7">3. Customising the database</a></li>
+<li><a href="#orgheadline8">2. Reading the database</a>
+<ul>
+<li><a href="#orgheadline4">2.1. Where do you find monster X?</a></li>
+<li><a href="#orgheadline5">2.2. Pick a random monster of a certain frequency</a></li>
+<li><a href="#orgheadline6">2.3. Pick a random encounter for a terrain</a></li>
+<li><a href="#orgheadline7">2.4. Monster overview lists</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline10">3. Customising the database</a>
+<ul>
+<li><a href="#orgheadline9">3.1. Replacing Scrub and Rough</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgheadline1" class="outline-2">
-<h2 id="orgheadline1"><span class="section-number-2">1</span> Making the database</h2>
+<div id="outline-container-orgheadline3" class="outline-2">
+<h2 id="orgheadline3"><span class="section-number-2">1</span> Making the database</h2>
 <div class="outline-text-2" id="text-1">
+</div><div id="outline-container-orgheadline1" class="outline-3">
+<h3 id="orgheadline1"><span class="section-number-3">1.1</span> Data</h3>
+<div class="outline-text-3" id="text-1-1">
 <p>
 A directory of all MM, FF, and MMII monsters and where they are found
-by frequency, based on terrain.
+by frequency, based on terrain as listed in the back of MMII.
 </p>
 
+<p>
+Note that this is substantially different from the charts in the
+back of the DMG, not just because of the different monsters, but
+because there is a smaller list of terrains (i.e., MMII does not
+list scrub or rough; marsh is renamed swamp).
+</p>
+
+<p>
+In addition, there are several Conditions missing: artic and
+sub-artic are combined into "cold", Faerie and Sylvan is missing, as
+are "Pleistocene" and "Age of Dinosaurs" both of which seem to have
+been rolled into parts of "tropical".
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgheadline2" class="outline-3">
+<h3 id="orgheadline2"><span class="section-number-3">1.2</span> Setup</h3>
+<div class="outline-text-3" id="text-1-2">
 <p>
 The core is a database file of monsters (MMIIlandmonsters.txt) which is
 fed into a program (parse.pl) along with a type for the database (this
