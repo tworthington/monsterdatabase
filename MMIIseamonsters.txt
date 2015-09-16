@@ -806,7 +806,7 @@ Grue, Varrdig
 Harpy
 Hippocampus
 Hippogriff
-lxitachitl
+Ixitxachitl
 Kelpie
 Ki-rin
 Kopoacinth
@@ -896,7 +896,7 @@ Dragon, Sea
 Eel, Weed
 Eye of the Deep
 Giant, Storm
-lxitachitl
+Ixitxachitl
 Kelpie
 Kraken
 Lycanthrope, Seawolf, Greater
