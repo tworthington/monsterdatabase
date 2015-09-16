@@ -4255,7 +4255,7 @@ Castle
 Centipede, Megalo
 Coffer Corpse
 Crayfish, Giant
-Demon, Alu
+Demon, Alu-
 Demon, Cambion
 Deva, Movanic
 Dragon, Gold
@@ -4370,7 +4370,7 @@ Basilisk
 Bookworm
 Brain Mole
 Centipede, Megalo
-Demon, Alu
+Demon, Alu-
 Demon, Chambion
 Deva, Movanic
 Disenchanter
