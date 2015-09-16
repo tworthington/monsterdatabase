@@ -611,7 +611,7 @@ Dragon, Coiled
 Dragon, Copper
 Dragon, Gold
 Dragon, Green
-Dragon, sea
+Dragon, Sea
 Dragon, Silver
 Dragon Horse
 Dragonfly, Giant
