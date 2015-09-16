@@ -120,11 +120,22 @@ land/tropical_wilderness_swamp/uncommon:Troll
    The program encounter.pl takes a terrain and returns an encounter
    using the weightings from the MMII (e.g., very rare is 3%, not the
    4% of the MM)
-     #+BEGIN_EXAMPLE
-     ./encounter.pl land/temperate_wilderness_forest/
+   #+BEGIN_EXAMPLE
+   ./encounter.pl land/temperate_wilderness_forest/
 
-     Dog, Wild
-     #+END_EXAMPLE
+   Dog, Wild
+   #+END_EXAMPLE
+
+   If you want the encounter program to generate patrols and
+   fortresses as per DMG p182, then tag any non-zero item onto the
+   command line:
+
+   #+BEGIN_EXAMPLE
+   ./encounter.pl land/tropical_wilderness_mountains/ 1
+
+   Stronghold:     Small walled castle with keep (medium)
+   #+END_EXAMPLE
+     
 ** Monster overview lists
    You can also do 
 
