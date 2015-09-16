@@ -13,6 +13,12 @@
   are "Pleistocene" and "Age of Dinosaurs" both of which seem to have
   been rolled into parts of "tropical".
 
+  One other difference in the MMII tables is that fortress, patrols
+  and character encounters are rolled into the main tables. In DMG, a
+  flat 10% of "men" encounters are with character types and patrols
+  are a full 25% of encounters in inhabited areas and fortresses are
+  5% of all uninhabited area encounters.
+
 ** Setup
   The core is a database file of monsters (MMIIlandmonsters.txt) which is
   fed into a program (parse.pl) along with a type for the database (this
@@ -182,3 +188,13 @@ land/tropical_wilderness_swamp/uncommon:Troll
   #+BEGIN_EXAMPLE
   ./parse.pl <myland.txt land
   #+END_EXAMPLE
+
+** Replacing Scrub and Rough etc.
+   My suggestion for replacing the missing terrains would simply to
+   cut and paste an existing terrain and then edit it to fit the
+   missing ones.
+
+   Scrub and rough in the DMG seems quite similar to plains, but rough
+   should contain more dungeon-y type monsters as it includes ruins,
+   and scrub is mostly modified to reflect creatures that prefer a bit
+   of cover, but it's not a huge difference.
