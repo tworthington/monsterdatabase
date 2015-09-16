@@ -667,7 +667,7 @@ Crayfish, Giant
 Dinosaur, Archelon
 Dinosaur, Elasmosaur
 Frog, Giant
-Kopocinth
+Kopoacinth
 Lacedon
 Lamprey, Normal
 Leech, Giant
@@ -854,7 +854,7 @@ Dinosaur, Nothosaur
 Dolphin
 Eel, Giant
 Elf, Aquatic
-Kopocinth
+Kopoacinth
 Lacedon
 Lamprey, Normal
 Masher
