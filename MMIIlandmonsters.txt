@@ -2440,7 +2440,7 @@ Demon, Bar-Lgura
 Demon, Nabassu
 Denzelian
 Deva, Movanic
-Displacer Beast
+Displacer Beasts
 Doppleganger
 Dragon, Black
 Dragon, Bronze
@@ -5892,7 +5892,7 @@ Dinosaur, Mamenchisaur
 Dinosaur, Massopondylus
 Dinosaur, Megalosaur
 Disenchanter
-Displacer Beast
+Displacer Beasts
 Dragon, Blue
 Dragon, Brass
 Dragon, Coiled
@@ -6148,7 +6148,7 @@ Dinosaur, Podokesaur
 Dinosaur, Teratosaur
 Dinosaur, Tyrannosaur
 Disenchanter
-Displacer Beast
+Displacer Beasts
 Dragon, Copper
 Dragon, Earth
 Dragon, Gold
