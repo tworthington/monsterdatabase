@@ -1194,7 +1194,6 @@ Shadow Mastiff
 Skeleton
 Spectre
 Tiger
-Tiger
 Toad, Ice
 Troll, Giant
 Urchin, Black
@@ -2520,7 +2519,6 @@ Rothe
 Sandman
 Shade
 Shedu, Greater
-Skunk
 Snake, Giant Amphisbaena
 Snake, Giant Spitting
 Spider, Giant
@@ -2611,7 +2609,6 @@ Rat, Giant
 Rhinoceros
 Satyr
 Scorpion, Large
-Skunk
 Snake, poisonous
 Snake, Giant Poisonous
 Spider, Huge
@@ -3091,7 +3088,6 @@ Shadow Mastiff
 Shedu
 Shedu, Greater
 Shocker
-Skunk
 Snake, Giant Amphisbaena
 Snake, Giant Spitting
 Squealer
@@ -3374,7 +3370,6 @@ Shedu
 Shedu, Greater
 Skeleton, Animal
 Skulk
-Skunk
 Snake, Giant Amphisbaena
 Son of Kyuss
 Squealer
@@ -3569,7 +3564,7 @@ Grue, Ildriss
 Hollyphant
 Hornet, Giant
 Huecuva
-Hydra,
+Hydra
 Hydra, Pyro-
 Irish Deer
 Lammasu, Greater
@@ -4714,7 +4709,7 @@ Haunt
 Hell Hound
 Hollyphant
 Hornet, Giant
-Hydra,
+Hydra
 Hydra, Pyro
 Hyenadon
 Khargra
@@ -4760,7 +4755,6 @@ Sandman
 Shade
 Shedu, Greater
 Nymph
-Skunk
 Snake, Giant Amphisbaena
 Snake, Giant Spitting
 Sphinx, Andro-
@@ -4857,7 +4851,6 @@ Rat
 Rat, Giant
 Rhinoceros
 Scorpion, Large
-Skunk
 Snake, Constrictor
 Snake, Giant Poisonous
 Spider, Huge
@@ -5316,7 +5309,7 @@ Grim
 Groaning Spirit
 Hangman Tree
 Hybsil
-Hydra,
+Hydra
 Jackalwere
 Kenku
 Lammasu, Greater
@@ -5369,7 +5362,6 @@ Shadow Mastiff
 Shedu
 Shedu, Greater
 Shocker
-Skunk
 Snake, Giant Amphisbaena
 Snake, Giant Spitting
 Sphinx, Hieraco-
@@ -5447,7 +5439,7 @@ Herd Animal
 Hippopotamus
 Hobgoblin
 Hornet, Giant
-Hydra,
+Hydra
 Jermlaine
 Land Lamprey
 Leech, Giant
@@ -5693,7 +5685,6 @@ Shedu
 Shedu, Greater
 Skeleton, Animal
 Skulk
-Skunk
 Snake, Giant Amphisbaena
 Son of Kyuss
 Sphinx, Crio-
@@ -5922,7 +5913,7 @@ Harpy
 Hollyphant
 Hornet, Giant
 Huecuva
-Hydra,
+Hydra
 Hydra, Pyro
 Hyenadon
 Kamadan
