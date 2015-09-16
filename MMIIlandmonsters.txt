@@ -725,7 +725,7 @@ Troll, Giant Two-headed
 Vagabond
 Vampire
 Vargouille
-Will-0-wisp
+Will-O-Wisp
 Wolf, Dire
 Wolf, Winter
 Wraith
@@ -1147,7 +1147,7 @@ Squirrel, Normal
 Troll
 Volt
 Weasel
-Will-0-wisp
+Will-O-Wisp
 Wolf
 
 Rare
@@ -2546,7 +2546,7 @@ Vampire
 Vargouille
 Vulchling
 Vulture, Giant
-Will-0-wisp
+Will-O-Wisp
 Witherstench
 Wolf, Dire
 Wraith
@@ -3170,7 +3170,7 @@ Troll
 Volt
 Weasel
 Whipweed
-Will-0-wisp
+Will-O-Wisp
 Witherweed
 Wolf
 Wyvern
@@ -4783,7 +4783,7 @@ Vagabond
 Vampire
 Vargouille
 Vulture, Giant
-Will-0-wisp
+Will-O-Wisp
 Wolf, Dire
 Wraith
 Xaren
@@ -5468,7 +5468,7 @@ Toad, Poisonous
 Troll
 Volt
 Whipweed
-Will-0-wisp
+Will-O-Wisp
 Witherweed
 Wolf
 Wyvern

@@ -404,7 +404,7 @@ Sea Lion
 Swordfish
 Troll, Marine
 Turtle, Giant Sea
-WilL-0-Wisp
+Will-0-Wisp
 Rare
 Crab, Giant
 Crabman
