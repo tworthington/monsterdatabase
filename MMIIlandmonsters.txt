@@ -4574,7 +4574,7 @@ Dinosaur, Compsognathus
 Dinosaur, Dilophosaur
 Dinosaur, Giant Pterosaur
 Dinosaur, Iguanadon
-Dinosaur, Pentaceratop
+Dinosaur, Pentaceratops
 Dinosaur, Phororhacos
 Dinosaur, Plateosaur
 Dinosaur, Stegosaur
@@ -4977,7 +4977,7 @@ Coffer Corpse
 Cooshee
 Couatl
 Deva, Movanic
-Dinosaur, Giant Rero,
+Dinosaur, Giant Pterosaur
 Dinosaur, Ornitholestes
 Dinosaur, Pteranadon
 Dinosaur, Teratosaur
@@ -5199,7 +5199,7 @@ Dinosaur, Deinonychus
 Dinosaur, Diplodocus
 Dinosaur, lguanadon
 Dinosaur, Lambeosaur
-Dinosaur, Pentaceratop
+Dinosaur, Pentaceratops
 Dinosaur, Triceratops
 Dragon, Green
 Dwarf, Hill
@@ -5506,9 +5506,9 @@ Crab, Giant
 Crane, Giant
 Crystal Ooze
 Dinosaur, Compsognathus
-Dinosaur, Giant Ptero
+Dinosaur, Giant Pterosaur
 Dinosaur, Monoclonius
-Dinosaur, Pentaceratop
+Dinosaur, Pentaceratops
 Dinosaur, Stegosaur
 Dinosaur, Struthoimimus
 Dinosaur, Tanystropheus
@@ -5606,7 +5606,7 @@ Dinosaur, Ankylosaur
 Dinosaur, Antrodemus
 Dinosaur, Deinonychus
 Dinosaur, Paleoscincus
-Dinosaur, Tyrannosaur
+Dinosaur, Tyrannosaurus
 Displacer Beasts
 Doppleganger
 Dracolisk
@@ -5739,7 +5739,7 @@ Dinosaur, Euparkeria
 Dinosaur, lguanadon
 Dinosaur, Lambeosaur
 Dinosaur, Monoclonius
-Dinosaur, Pentaceratop
+Dinosaur, Pentaceratops
 Dinosaur, Stegosaur
 Dinosaur, Styracosaur
 Dinosaur, Triceratops
@@ -5779,7 +5779,7 @@ Dinosaur, Paleoscincus
 Dinosaur, Podokesaur
 Dinosaur, Struthoimimus
 Dinosaur, Teratosaur
-Dinosaur, Tyrannosaur
+Dinosaur, Tyrannosaurus
 Falcon, Large
 Ghoul
 Horse
@@ -5886,7 +5886,7 @@ Deva, Movanic
 Dinosaur, Brachiosaur
 Dinosaur, Ceratosaur
 Dinosaur, Cetiosaur
-Dinosaur, Giant Ptero,
+Dinosaur, Giant Pterosaur
 Dinosaur, Gorgosaur
 Dinosaur, Mamenchisaur
 Dinosaur, Massopondylus
@@ -6020,7 +6020,7 @@ Uncommon
 Bandit
 Cat, Wild
 Centipede, Huge
-Dinosaur, Camptosaur
+Dinosaur, Camptosaurus
 Dinosaur, Compsognathus
 Dragon, Brass
 Dustdigger
@@ -6065,7 +6065,7 @@ Dinosaur, Dimetrodon
 Dinosaur, lguanadon
 Dinosaur, Lambeosaur
 Dinosaur, Monoclonius
-Dinosaur, Pentaceratop
+Dinosaur, Pentaceratops
 Dinosaur, Phororhacos
 Dinosaur, Stegosaur
 Dinosaur, Styracosaur
@@ -6140,13 +6140,13 @@ Dinosaur, Ankylosaur
 Dinosaur, Antrodemus
 Dinosaur, Ceratosaur
 Dinosaur, Dacentrurus
-Dinosaur, Giant Ptero,
+Dinosaur, Giant Pterosaur
 Dinosaur, Gorgosaur
-Dinosaur, Ornitholests
+Dinosaur, Ornitholestes
 Dinosaur, Paleoscincus
 Dinosaur, Podokesaur
 Dinosaur, Teratosaur
-Dinosaur, Tyrannosaur
+Dinosaur, Tyrannosaurus
 Disenchanter
 Displacer Beasts
 Dragon, Copper
